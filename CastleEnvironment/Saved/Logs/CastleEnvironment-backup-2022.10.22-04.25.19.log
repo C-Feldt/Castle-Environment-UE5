@@ -1,0 +1,1509 @@
+﻿Log file open, 10/21/22 22:19:11
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=22536)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: CastleEnvironment
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" D:\UnrealEngineProjects\CastleEnvironment\CastleEnvironment.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H2) [10.0.19044.2130] "
+LogCsvProfiler: Display: Metadata set : cpu="AuthenticAMD|AMD Ryzen 9 5900X 12-Core Processor"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="377918934e65a7d7d2517e85e8296314"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.193284
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-1C438B5944A9612F1E7127A9529A61DE
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading Android ini files took 0.02 seconds
+LogConfig: Display: Loading IOS ini files took 0.02 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.02 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.02 seconds
+LogConfig: Display: Loading Mac ini files took 0.02 seconds
+LogConfig: Display: Loading Windows ini files took 0.02 seconds
+LogConfig: Display: Loading TVOS ini files took 0.03 seconds
+LogConfig: Display: Loading Unix ini files took 0.03 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.03 seconds
+LogConfig: Display: Loading Linux ini files took 0.03 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (21H2) [10.0.19044.2130] (), CPU: AMD Ryzen 9 5900X 12-Core Processor            , GPU: AMD Radeon RX 6800 XT
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: D:/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.10.22-03.19.11:580][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.10.22-03.19.11:580][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.10.22-03.19.11:580][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.10.22-03.19.11:580][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.10.22-03.19.11:580][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.10.22-03.19.11:580][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.10.22-03.19.11:580][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.10.22-03.19.11:580][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.10.22-03.19.11:580][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.10.22-03.19.11:580][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.10.22-03.19.11:580][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.10.22-03.19.11:580][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.10.22-03.19.11:580][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.10.22-03.19.11:580][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.10.22-03.19.11:580][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.10.22-03.19.11:580][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.10.22-03.19.11:580][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.10.22-03.19.11:580][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.10.22-03.19.11:580][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.10.22-03.19.11:580][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.10.22-03.19.11:580][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.10.22-03.19.11:580][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.10.22-03.19.11:580][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.10.22-03.19.11:580][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.10.22-03.19.11:580][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.10.22-03.19.11:580][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.10.22-03.19.11:580][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.10.22-03.19.11:580][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.10.22-03.19.11:580][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.10.22-03.19.11:580][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.10.22-03.19.11:580][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.10.22-03.19.11:580][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.10.22-03.19.11:580][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.10.22-03.19.11:580][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.10.22-03.19.11:580][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.10.22-03.19.11:580][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.10.22-03.19.11:580][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.10.22-03.19.11:580][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.10.22-03.19.11:580][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.10.22-03.19.11:580][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.10.22-03.19.11:580][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.10.22-03.19.11:580][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.10.22-03.19.11:580][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.10.22-03.19.11:580][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.10.22-03.19.11:580][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.10.22-03.19.11:580][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.10.22-03.19.11:580][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.10.22-03.19.11:580][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.10.22-03.19.11:580][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.10.22-03.19.11:580][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.10.22-03.19.11:580][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.10.22-03.19.11:580][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.10.22-03.19.11:580][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.10.22-03.19.11:580][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.10.22-03.19.11:580][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.10.22-03.19.11:580][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.10.22-03.19.11:580][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.10.22-03.19.11:585][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.10.22-03.19.11:585][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.10.22-03.19.11:585][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.10.22-03.19.11:585][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.10.22-03.19.11:585][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.10.22-03.19.11:585][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.10.22-03.19.11:585][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.10.22-03.19.11:585][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.10.22-03.19.11:585][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.10.22-03.19.11:585][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.10.22-03.19.11:585][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.10.22-03.19.11:615][  0]LogD3D12RHI: Aftermath initialized
+[2022.10.22-03.19.11:615][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.10.22-03.19.11:720][  0]LogD3D12RHI: Found D3D12 adapter 0: AMD Radeon RX 6800 XT (Max supported Feature Level 12_1, shader model 6.6)
+[2022.10.22-03.19.11:720][  0]LogD3D12RHI: Adapter has 16338MB of dedicated video memory, 0MB of dedicated system memory, and 16354MB of shared system memory, 2 output[s]
+[2022.10.22-03.19.11:723][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2022.10.22-03.19.11:723][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 16354MB of shared system memory, 0 output[s]
+[2022.10.22-03.19.11:723][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.10.22-03.19.11:724][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.10.22-03.19.11:724][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.10.22-03.19.11:724][  0]LogHAL: Display: Platform has ~ 32 GB [34297016320 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.10.22-03.19.11:724][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.10.22-03.19.11:724][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.10.22-03.19.11:724][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.10.22-03.19.11:724][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.10.22-03.19.11:724][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/UnrealEngineProjects/CastleEnvironment/Saved/Config/WindowsEditor/Editor.ini]
+[2022.10.22-03.19.11:724][  0]LogInit: Computer: DESKTOP-CU2SJ4E
+[2022.10.22-03.19.11:724][  0]LogInit: User: Calfr
+[2022.10.22-03.19.11:724][  0]LogInit: CPU Page size=4096, Cores=12
+[2022.10.22-03.19.11:724][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.10.22-03.19.11:724][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2022.10.22-03.19.11:724][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.10.22-03.19.11:724][  0]LogMemory: Process Physical Memory: 287.78 MB used, 354.84 MB peak
+[2022.10.22-03.19.11:724][  0]LogMemory: Process Virtual Memory: 281.53 MB used, 313.48 MB peak
+[2022.10.22-03.19.11:724][  0]LogMemory: Physical Memory: 16028.74 MB used,  16679.44 MB free, 32708.18 MB total
+[2022.10.22-03.19.11:724][  0]LogMemory: Virtual Memory: 26439.38 MB used,  10620.81 MB free, 37060.18 MB total
+[2022.10.22-03.19.11:724][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.10.22-03.19.11:727][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.10.22-03.19.11:736][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.10.22-03.19.11:736][  0]LogInit: Using OS detected language (en-US).
+[2022.10.22-03.19.11:736][  0]LogInit: Using OS detected locale (en-US).
+[2022.10.22-03.19.11:737][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2022.10.22-03.19.11:843][  0]LogInit: Setting process to per monitor DPI aware
+[2022.10.22-03.19.11:855][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.10.22-03.19.11:855][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2022.10.22-03.19.11:855][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2022.10.22-03.19.11:868][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.10.22-03.19.11:868][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.10.22-03.19.11:981][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.10.22-03.19.11:981][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.10.22-03.19.12:034][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2022.10.22-03.19.12:034][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2022.10.22-03.19.12:034][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2022.10.22-03.19.12:034][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2022.10.22-03.19.12:034][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2022.10.22-03.19.12:034][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2022.10.22-03.19.12:034][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2022.10.22-03.19.12:034][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2022.10.22-03.19.12:034][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2022.10.22-03.19.12:034][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2022.10.22-03.19.12:034][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2022.10.22-03.19.12:034][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2022.10.22-03.19.12:034][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2022.10.22-03.19.12:034][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2022.10.22-03.19.12:062][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.10.22-03.19.12:062][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.10.22-03.19.12:064][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.10.22-03.19.12:078][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.10.22-03.19.12:078][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.10.22-03.19.12:137][  0]LogD3D12RHI: AMD hit token extension is supported
+[2022.10.22-03.19.12:137][  0]LogD3D12RHI:     GPU DeviceId: 0x73bf (for the marketing name, search the web for "GPU Device Id")
+[2022.10.22-03.19.12:137][  0]LogWindows: Attached monitors:
+[2022.10.22-03.19.12:137][  0]LogWindows:     resolution: 3440x1440, work area: (0, 0) -> (3440, 1400), device: '\\.\DISPLAY1' [PRIMARY]
+[2022.10.22-03.19.12:137][  0]LogWindows:     resolution: 2560x1080, work area: (3440, 251) -> (6000, 1291), device: '\\.\DISPLAY2'
+[2022.10.22-03.19.12:137][  0]LogWindows: Found 2 attached monitors.
+[2022.10.22-03.19.12:137][  0]LogWindows: EnumDisplayDevices:
+[2022.10.22-03.19.12:137][  0]LogWindows:    0. 'AMD Radeon RX 6800 XT' (P:1 D:1), name: '\\.\DISPLAY1'
+[2022.10.22-03.19.12:137][  0]LogWindows:    1. 'AMD Radeon RX 6800 XT' (P:0 D:1), name: '\\.\DISPLAY2'
+[2022.10.22-03.19.12:137][  0]LogWindows:    2. 'AMD Radeon RX 6800 XT' (P:0 D:0), name: '\\.\DISPLAY3'
+[2022.10.22-03.19.12:137][  0]LogWindows:    3. 'AMD Radeon RX 6800 XT' (P:0 D:0), name: '\\.\DISPLAY4'
+[2022.10.22-03.19.12:138][  0]LogWindows:    4. 'AMD Radeon RX 6800 XT' (P:0 D:0), name: '\\.\DISPLAY5'
+[2022.10.22-03.19.12:138][  0]LogWindows:    5. 'AMD Radeon RX 6800 XT' (P:0 D:0), name: '\\.\DISPLAY6'
+[2022.10.22-03.19.12:138][  0]LogWindows:    6. 'AMD Radeon RX 6800 XT' (P:0 D:0), name: '\\.\DISPLAY7'
+[2022.10.22-03.19.12:138][  0]LogWindows: DebugString: FoundDriverCount:7 
+[2022.10.22-03.19.12:138][  0]LogD3D12RHI:     Adapter Name: AMD Radeon RX 6800 XT
+[2022.10.22-03.19.12:138][  0]LogD3D12RHI:   Driver Version: 30.0.21020.2 (internal:30.0.21020.2, unified:30.0.21020.2)
+[2022.10.22-03.19.12:138][  0]LogD3D12RHI:      Driver Date: 5-24-2022
+[2022.10.22-03.19.12:138][  0]LogRHI: Texture pool is 9809 MB (70% of 14013 MB)
+[2022.10.22-03.19.12:138][  0]LogD3D12RHI: Async texture creation enabled
+[2022.10.22-03.19.12:138][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.10.22-03.19.12:152][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="D:/UnrealEngineProjects/CastleEnvironment/CastleEnvironment.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/UnrealEngineProjects/CastleEnvironment/Intermediate/TurnkeyReport_0.log" -log="D:/UnrealEngineProjects/CastleEnvironment/Intermediate/TurnkeyLog_0.log" -project="D:/UnrealEngineProjects/CastleEnvironment/CastleEnvironment.uproject"  -platform=all'
+[2022.10.22-03.19.12:152][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""D:/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="D:/UnrealEngineProjects/CastleEnvironment/CastleEnvironment.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/UnrealEngineProjects/CastleEnvironment/Intermediate/TurnkeyReport_0.log" -log="D:/UnrealEngineProjects/CastleEnvironment/Intermediate/TurnkeyLog_0.log" -project="D:/UnrealEngineProjects/CastleEnvironment/CastleEnvironment.uproject"  -platform=all" ]
+[2022.10.22-03.19.12:165][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.10.22-03.19.12:169][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.10.22-03.19.12:169][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.10.22-03.19.12:173][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.10.22-03.19.12:173][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.10.22-03.19.12:173][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.10.22-03.19.12:173][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.10.22-03.19.12:173][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.10.22-03.19.12:173][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.10.22-03.19.12:173][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.10.22-03.19.12:173][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.10.22-03.19.12:173][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.10.22-03.19.12:173][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.10.22-03.19.12:186][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.10.22-03.19.12:186][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.10.22-03.19.12:188][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.10.22-03.19.12:188][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.10.22-03.19.12:190][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.10.22-03.19.12:190][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.10.22-03.19.12:190][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.10.22-03.19.12:190][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.10.22-03.19.12:192][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.10.22-03.19.12:192][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.10.22-03.19.12:192][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.10.22-03.19.12:194][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.10.22-03.19.12:194][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.10.22-03.19.12:197][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.10.22-03.19.12:197][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.10.22-03.19.12:197][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.10.22-03.19.12:197][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.10.22-03.19.12:197][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.10.22-03.19.12:201][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.10.22-03.19.12:203][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.10.22-03.19.12:203][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.10.22-03.19.12:203][  0]LogTargetPlatformManager:   ADPCM
+[2022.10.22-03.19.12:203][  0]LogTargetPlatformManager:   PCM
+[2022.10.22-03.19.12:205][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.10.22-03.19.12:205][  0]LogTargetPlatformManager:   BINKA
+[2022.10.22-03.19.12:205][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.10.22-03.19.12:205][  0]LogTargetPlatformManager:   OGG
+[2022.10.22-03.19.12:205][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.10.22-03.19.12:205][  0]LogTargetPlatformManager:   OPUS
+[2022.10.22-03.19.12:228][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.10.22-03.19.12:231][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 9009
+[2022.10.22-03.19.12:231][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.10.22-03.19.12:231][  0]LogTargetPlatformManager:   SF_METAL
+[2022.10.22-03.19.12:231][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.10.22-03.19.12:231][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.10.22-03.19.12:231][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.10.22-03.19.12:231][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.10.22-03.19.12:231][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.10.22-03.19.12:231][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.10.22-03.19.12:231][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.10.22-03.19.12:231][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.10.22-03.19.12:231][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.10.22-03.19.12:231][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.10.22-03.19.12:231][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.10.22-03.19.12:231][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.10.22-03.19.12:231][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.10.22-03.19.12:231][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.10.22-03.19.12:233][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.10.22-03.19.12:233][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.10.22-03.19.12:233][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.10.22-03.19.12:233][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.10.22-03.19.12:233][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.10.22-03.19.12:233][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.10.22-03.19.12:233][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.10.22-03.19.12:233][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.10.22-03.19.12:233][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../UnrealEngineProjects/CastleEnvironment/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.10.22-03.19.12:234][  0]LogShaderCompilers: Display: Failed to delete old shader autogen file: ../../../../UnrealEngineProjects/CastleEnvironment/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.10.22-03.19.12:234][  0]LogShaderCompilers: Display: Shader autogen file written: ../../../../UnrealEngineProjects/CastleEnvironment/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.10.22-03.19.12:234][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../UnrealEngineProjects/CastleEnvironment/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.10.22-03.19.12:234][  0]LogShaderCompilers: Display: Failed to delete old shader autogen file: ../../../../UnrealEngineProjects/CastleEnvironment/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.10.22-03.19.12:234][  0]LogShaderCompilers: Display: Shader autogen file written: ../../../../UnrealEngineProjects/CastleEnvironment/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.10.22-03.19.12:236][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../UnrealEngineProjects/CastleEnvironment/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.10.22-03.19.12:236][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.10.22-03.19.12:236][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../UnrealEngineProjects/CastleEnvironment/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.10.22-03.19.12:236][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.10.22-03.19.12:252][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2022.10.22-03.19.12:253][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.10.22-03.19.12:253][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.10.22-03.19.12:258][  0]LogDerivedDataCache: Speed tests for C:/Users/Calfr/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.00 seconds
+[2022.10.22-03.19.12:258][  0]LogDerivedDataCache: Display: Performance to C:/Users/Calfr/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=1429.85MBs, RandomWriteSpeed=229.53MBs. Assigned SpeedClass 'Local'
+[2022.10.22-03.19.12:258][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Calfr/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.10.22-03.19.12:258][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.10.22-03.19.12:258][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.10.22-03.19.12:262][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.10.22-03.19.12:262][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.10.22-03.19.12:263][  0]LogShaderCompilers: Guid format shader working directory is -5 characters bigger than the processId version (../../../../UnrealEngineProjects/CastleEnvironment/Intermediate/Shaders/WorkingDirectory/23672/).
+[2022.10.22-03.19.12:263][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Calfr/AppData/Local/Temp/UnrealShaderWorkingDir/9C8AD87B44CE756648BA368C825F765B/'.
+[2022.10.22-03.19.12:263][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.10.22-03.19.12:263][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 12 workers.
+[2022.10.22-03.19.13:223][  0]LogSlate: Using FreeType 2.10.0
+[2022.10.22-03.19.13:224][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.10.22-03.19.13:254][  0]LogAssetRegistry: FAssetRegistry took 0.0073 seconds to start up
+[2022.10.22-03.19.13:258][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.10.22-03.19.13:414][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.10.22-03.19.13:414][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.10.22-03.19.13:579][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.10.22-03.19.13:579][  0]LogDeviceProfileManager: Active device profile: [00000466F3AA86C0][00000466EE020000 50] WindowsEditor
+[2022.10.22-03.19.13:579][  0]LogDeviceProfileManager: Profiles: [00000466F3AA8180][00000466E9F8A000 50] Windows, [00000466F3AA86C0][00000466EE020000 50] WindowsEditor, [00000466F3AA7FC0][00000466E9FC2800 50] WindowsServer, [00000466F3AA8880][00000466C927C800 50] WindowsClient, [00000466F3AA3480][00000466F3E70000 50] IOS, [00000466F3AA7C40][00000466F3E75000 50] iPadAir2, [00000466F3AA7A80][00000466F3E7A000 50] IPadPro, [00000466F3AA78C0][00000466F3E77800 50] iPadAir3, [00000466F3AA7540][00000466F3E7C800 50] iPadAir4, [00000466F3AA4D00][00000466E9FC5000 50] iPadMini4, [00000466F3AA4600][00000466F3E90000 50] iPadMini5, [00000466F3AA3D40][00000466F3E95000 50] iPadMini6, [00000466F3AAB440][00000466F3E9C800 50] iPhone6S, [00000466F3AAB7C0][00000466F3E9A000 50] iPhone7, [00000466F3AABB40][00000466F3E97800 50] iPodTouch7, [00000466F3AAA800][00000466F3E72800 50] iPhone6SPlus, [00000466F3AAB980][00000466F3EA0000 50] iPhone7Plus, [00000466F3AA5B00][00000466F3EA5000 50] iPhoneSE, [00000466F3AA5940][00000466F3EA7800 50] iPhone8, [00000466F3AA9840][00000466F3EAA000 50] iPhone8Plus, [00000466F3AA4440][00000466F3EAC800 50] iPhoneX, [00000466F3AA8C00][00000466F3E92800 50] iPhoneXS, [00000466F3AA4280][00000466F3EB0000 50] iPhoneXSMax, [00000466F3AA9680][00000466F3EB5000 50] iPhoneXR, [00000466F3AAB0C0][00000466F3EB7800 50] iPhone11, [00000466F3AA6200][00000466F3EBA000 50] iPhone11Pro, [00000466F3AA7700][00000466F3EBC800 50] iPhone11ProMax, [00000466F3AA55C0][00000466F3EA2800 50] iPhoneSE2, [00000466F3AA63C0][00000466F3EC0000 50] iPhone12Mini, [00000466F3AAAF00][00000466F3EC5000 50] iPhone12, [00000466F3AA47C0][00000466F3EC7800 50] iPhone12Pro, [00000466F3AA8A40][00000466F3ECA000 50] iPhone12ProMax, [00000466F3AA5E80][00000466F3ECC800 50] iPhone13Mini, [00000466F3AA4EC0][00000466F3EB2800 50] iPhone13, [00000466F3AA71C0][00000466F3ED0000 50] iPhone13Pro, [00000466F3AA6C80][00000466F3ED5000 50] iPhone13ProMax, [00000466F3AA40C0][00000466F3ED7800 50] iPadPro105, [00000466F3AA8F80][00000466F3EDA000 50] iPadPro129, [00000466F3AA3B80][00000466F3EDC800 50] iPadPro97, [00000466F3AAB600][00000466F3EC2800 50] iPadPro2_129, [00000466F3AA5780][00000466F3EF0000 50] iPad5, [00000466F3AA32C0][00000466F3EF5000 50] iPad6, [00000466F3AA8DC0][00000466F3EF7800 50] iPad7, [00000466F3AA5CC0][00000466F3EFA000 50] iPad8, [00000466F3AA7E00][00000466F3EFC800 50] iPad9, [00000466F3AA6E40][00000466F3ED2800 50] iPadPro11, [00000466F3AA7380][00000466F3F00000 50] iPadPro2_11, [00000466F3AAA100][00000466F3F05000 50] iPadPro3_11, [00000466F3AA9BC0][00000466F3F07800 50] iPadPro3_129, [00000466F3AA6900][00000466F3F0A000 50] iPadPro4_129, [00000466F3AA5240][00000466F3F0C800 50] iPadPro5_129, [00000466F3AA7000][00000466F3EF2800 50] AppleTV, [00000466F3AA94C0][00000466F3F10000 50] AppleTV4K, [00000466F3AA9300][00000466F3F15000 50] TVOS, [00000466F3AAD900][00000466F3F1A000 50] Mac, [00000466F3AAD740][00000466F3F17800 50] MacEditor, [00000466F3AA3F00][00000466F3F1C800 50] MacClient, [00000466F3AAD200][00000466F3F02800 50] MacServer, [00000466F3AAE000][00000466F3F22800 50] Linux, [00000466F3AAE380][00000466F3F20000 50] LinuxEditor, [00000466F3AADE40][00000466F3F27800 50] LinuxArm64Editor, [00000466F3AAAB80][00000466F3F2A000 50] LinuxArm64, [00000466F3AA5400][00000466F3F2C800 50] LinuxClient, [00000466F3AAE540][00000466F3F12800 50] LinuxArm64Client, [00000466F3AAA9C0][00000466F3F30000 50] LinuxServer, [00000466F3AAC080][00000466F3F35000 50] LinuxArm64Server, [00000466F3AA4980][00000466F3F37800 50] Android, [00000466F3AAEA80][00000466F3F3A000 50] Android_Preview_OpenGL, [00000466F3AAC240][00000466F3F3C800 50] Android_Preview_Vulkan, [00000466F3AA9D80][00000466F3F25000 50] Android_Low, [00000466F3AABD00][00000466F3F40000 50] Android_Mid, [00000466F3AAB280][00000466F3F45000 50] Android_High, [00000466F3AAE8C0][00000466F3F47800 50] Android_Default, [00000466F3AAC5C0][00000466F3F4A000 50] Android_Adreno4xx, [00000466F3AA6040][00000466F3F4C800 50] Android_Adreno5xx_Low, [00000466F3AAA640][00000466F3F32800 50] Android_Adreno5xx, [00000466F3AAC940][00000466F3F50000 50] Android_Adreno6xx, [00000466F3AAAD40][00000466F3F55000 50] Android_Adreno6xx_Vulkan, [00000466F3AAC780][00000466F3F57800 50] Android_Adreno7xx, [00000466F3AA9140][00000466F3F5A000 50] Android_Adreno7xx_Vulkan, [00000466F3AA3100][00000466F3F5C800 50] Android_Mali_T6xx, [00000466F3AA6580][00000466F3F42800 50] Android_Mali_T7xx, [00000466F3AA4B40][00000466F3F60000 50] Android_Mali_T8xx, [00000466F3AACE80][00000466F3F65000 50] Android_Mali_G71, [00000466F3AABEC0][00000466F3F67800 50] Android_Mali_G72, [00000466F3AAF500][00000466F3F6A000 50] Android_Mali_G72_Vulkan, [00000466F3AAD3C0][00000466F3F6C800 50] Android_Mali_G76, [00000466F3AAFA40][00000466F3F52800 50] Android_Mali_G76_Vulkan, [00000466F3AAEE00][00000466F3F70000 50] Android_Mali_G77, [00000466F3AA6740][00000466F3F75000 50] Android_Mali_G77_Vulkan, [00000466F3AACCC0][00000466F3F77800 50] Android_Mali_G78, [00000466F3AA5080][00000466F3F7A000 50] Android_Mali_G78_Vulkan, [00000466F3AA6AC0][00000466F3F7C800 50] Android_Mali_G710, [00000466F3AA9A00][00000466F3F62800 50] Android_Mali_G710_Vulkan, [00000466F3AAF6C0][00000466F3F80000 50] Android_Xclipse_920, [00000466F3AAA480][00000466F3F85000 50] Android_Xclipse_920_Vulkan, [00000466F3F90000][00000466F3F87800 50] Android_Vulkan_SM5, [00000466F3F924C0][00000466F3F8A000 50] Android_PowerVR_G6xxx, [00000466F3F90C40][00000466F3F8C800 50] Android_PowerVR_GT7xxx, [00000466F3F90A80][00000466F3F72800 50] Android_PowerVR_GE8xxx, [00000466F3F908C0][00000466F3FA0000 50] Android_PowerVR_GM9xxx, [00000466F3F90700][00000466F3FA5000 50] Android_PowerVR_GM9xxx_Vulkan, [00000466F3F90540][00000466F3FA7800 50] Android_TegraK1, [00000466F3F92140][00000466F3FAA000 50] Android_Unknown_Vulkan, [00000466F3F93800][00000466F3FAC800 50] Oculus_Quest, [00000466F3F91DC0][00000466F3F82800 50] Oculus_Quest2, [00000466F3F93D40][00000466F3FB0000 50] HoloLens, 
+[2022.10.22-03.19.13:579][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.10.22-03.19.13:591][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.10.22-03.19.13:758][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.10.22-03.19.13:758][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.10.22-03.19.13:758][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.10.22-03.19.13:758][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.10.22-03.19.13:758][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.10.22-03.19.13:773][  0]LogNetVersion: CastleEnvironment 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 1761860019)
+[2022.10.22-03.19.13:870][  0]LogSlate: Border
+[2022.10.22-03.19.13:870][  0]LogSlate: BreadcrumbButton
+[2022.10.22-03.19.13:870][  0]LogSlate: Default
+[2022.10.22-03.19.13:870][  0]LogSlate: Icons.Save
+[2022.10.22-03.19.13:870][  0]LogSlate: Icons.Toolbar.Settings
+[2022.10.22-03.19.13:870][  0]LogSlate: ListView
+[2022.10.22-03.19.13:870][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.10.22-03.19.13:870][  0]LogSlate: SoftwareCursor_Grab
+[2022.10.22-03.19.13:870][  0]LogSlate: TableView.DarkRow
+[2022.10.22-03.19.13:870][  0]LogSlate: TableView.Row
+[2022.10.22-03.19.13:870][  0]LogSlate: TreeView
+[2022.10.22-03.19.14:001][  0]SourceControl: Source control is disabled
+[2022.10.22-03.19.14:023][  0]SourceControl: Source control is disabled
+[2022.10.22-03.19.14:023][  0]SourceControl: Source control is disabled
+[2022.10.22-03.19.14:123][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2022.10.22-03.19.14:123][  0]LogUObjectAllocator: 5584264 out of 0 bytes used by permanent object pool.
+[2022.10.22-03.19.14:123][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.10.22-03.19.14:241][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: F8B4A3BA40DAB97CC6EB76A1F04EDAA8 | Instance: A47BDBF94C497BBE56365E8EE09D5793 (DESKTOP-CU2SJ4E-23672).
+[2022.10.22-03.19.14:269][  0]LogPython: Using Python 3.9.7
+[2022.10.22-03.19.14:952][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.10.22-03.19.14:972][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.10.22-03.19.15:315][  0]LogOpenImageDenoise: OIDN starting up
+[2022.10.22-03.19.15:369][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.10.22-03.19.15:380][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.10.22-03.19.15:380][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.10.22-03.19.15:417][  0]SourceControl: Source control is disabled
+[2022.10.22-03.19.15:418][  0]SourceControl: Source control is disabled
+[2022.10.22-03.19.15:424][  0]SourceControl: Source control is disabled
+[2022.10.22-03.19.15:438][  0]LogUProjectInfo: Found projects:
+[2022.10.22-03.19.15:600][  0]LogCollectionManager: Loaded 0 collections in 0.000546 seconds
+[2022.10.22-03.19.15:623][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealEngineProjects/CastleEnvironment/Saved/Collections/' took 0.00s
+[2022.10.22-03.19.15:623][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealEngineProjects/CastleEnvironment/Content/Developers/Calfr/Collections/' took 0.00s
+[2022.10.22-03.19.15:623][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealEngineProjects/CastleEnvironment/Content/Collections/' took 0.00s
+[2022.10.22-03.19.15:824][  0]LogEngine: Initializing Engine...
+[2022.10.22-03.19.15:834][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2022.10.22-03.19.15:848][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.10.22-03.19.16:030][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.10.22-03.19.16:030][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.22-03.19.16:038][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.22-03.19.16:060][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.10.22-03.19.16:061][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.10.22-03.19.16:076][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.10.22-03.19.16:077][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.10.22-03.19.16:077][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.10.22-03.19.16:077][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.10.22-03.19.16:077][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.10.22-03.19.16:077][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.22-03.19.16:077][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.22-03.19.16:077][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.22-03.19.16:077][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.22-03.19.16:077][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.22-03.19.16:077][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.22-03.19.16:077][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.22-03.19.16:077][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.22-03.19.16:077][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.22-03.19.16:077][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.22-03.19.16:077][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.22-03.19.16:081][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.22-03.19.16:107][  0]LogAudioMixer: Display: Using Audio Hardware Device Headphones (WH-1000XM5 Stereo)
+[2022.10.22-03.19.16:107][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.22-03.19.16:108][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.22-03.19.16:108][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.22-03.19.16:109][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.10.22-03.19.16:109][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.10.22-03.19.16:110][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.10.22-03.19.16:110][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.10.22-03.19.16:110][  0]LogInit: FAudioDevice initialized.
+[2022.10.22-03.19.16:110][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.10.22-03.19.16:110][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.10.22-03.19.16:110][  0]LogInit: Texture streaming: Enabled
+[2022.10.22-03.19.16:134][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2022.10.22-03.19.16:140][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.10.22-03.19.16:156][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.10.22-03.19.16:161][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.10.22-03.19.16:161][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.10.22-03.19.16:904][  0]LogLiveCoding: Display: First instance in process group "UE_CastleEnvironment_0x6ef72c73", spawning console
+[2022.10.22-03.19.16:904][  0]LogLiveCoding: Display: Waiting for server
+[2022.10.22-03.19.16:904][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.10.22-03.19.16:909][  0]LogInit: Transaction tracking system initialized
+[2022.10.22-03.19.16:967][  0]BlueprintLog: New page: Editor Load
+[2022.10.22-03.19.17:118][  0]LocalizationService: Localization service is disabled
+[2022.10.22-03.19.17:152][  0]TimingProfiler: Initialize
+[2022.10.22-03.19.17:152][  0]TimingProfiler: OnSessionChanged
+[2022.10.22-03.19.17:152][  0]LoadingProfiler: Initialize
+[2022.10.22-03.19.17:152][  0]LoadingProfiler: OnSessionChanged
+[2022.10.22-03.19.17:152][  0]NetworkingProfiler: Initialize
+[2022.10.22-03.19.17:152][  0]NetworkingProfiler: OnSessionChanged
+[2022.10.22-03.19.17:152][  0]MemoryProfiler: Initialize
+[2022.10.22-03.19.17:152][  0]MemoryProfiler: OnSessionChanged
+[2022.10.22-03.19.17:618][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealEngineProjects/CastleEnvironment/Content/' took 0.00s
+[2022.10.22-03.19.17:618][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.10.22-03.19.17:706][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.10.22-03.19.17:708][  0]SourceControl: Source control is disabled
+[2022.10.22-03.19.17:708][  0]LogUnrealEdMisc: Loading editor; pre map load, took 6.732
+[2022.10.22-03.19.17:708][  0]Cmd: MAP LOAD FILE="../../../../UnrealEngineProjects/CastleEnvironment/Content/ThirdPerson/Maps/ThirdPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.10.22-03.19.17:708][  0]LightingResults: New page: Lighting Build
+[2022.10.22-03.19.17:713][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.10.22-03.19.17:713][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-03.19.17:713][  0]MapCheck: New page: Map Check
+[2022.10.22-03.19.17:713][  0]LightingResults: New page: Lighting Build
+[2022.10.22-03.19.17:718][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.22-03.19.17:720][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.10.22-03.19.17:995][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonMap'.
+[2022.10.22-03.19.18:002][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.22-03.19.18:002][  0]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2022.10.22-03.19.18:003][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.10.22-03.19.18:003][  0]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2022.10.22-03.19.18:049][  0]LogWorldPartition: Display: WorldPartition initialize took 45 ms
+[2022.10.22-03.19.18:050][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.22-03.19.18:056][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.10.22-03.19.18:057][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.22-03.19.18:057][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.114ms to complete.
+[2022.10.22-03.19.18:057][  0]LogFileHelpers: Loading map 'ThirdPersonMap' took 0.349
+[2022.10.22-03.19.18:066][  0]LogUnrealEdMisc: Total Editor Startup Time, took 7.091
+[2022.10.22-03.19.18:067][  0]LogShaderCompilers: Display: ================================================
+[2022.10.22-03.19.18:067][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.10.22-03.19.18:067][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.10.22-03.19.18:067][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.10.22-03.19.18:067][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.10.22-03.19.18:067][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.10.22-03.19.18:067][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.10.22-03.19.18:067][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.10.22-03.19.18:067][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.10.22-03.19.18:067][  0]LogShaderCompilers: Display: ================================================
+[2022.10.22-03.19.18:155][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.10.22-03.19.18:164][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-03.19.18:167][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-03.19.18:171][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-03.19.18:174][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-03.19.18:244][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.10.22-03.19.18:244][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.22-03.19.18:245][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.10.22-03.19.18:245][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.22-03.19.18:245][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.10.22-03.19.18:245][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.22-03.19.18:245][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.10.22-03.19.18:246][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.22-03.19.18:246][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.10.22-03.19.18:246][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.22-03.19.18:246][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.10.22-03.19.18:246][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.22-03.19.18:247][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.10.22-03.19.18:247][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.22-03.19.18:247][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.10.22-03.19.18:247][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.22-03.19.18:247][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.10.22-03.19.18:247][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.22-03.19.18:248][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.10.22-03.19.18:248][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.22-03.19.18:248][  0]LogFeaturePack: Error: Error in Feature pack D:/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2022.10.22-03.19.18:323][  0]LogSlate: Took 0.000107 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.10.22-03.19.18:329][  0]LogSlate: Took 0.003533 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.10.22-03.19.18:335][  0]LogSlate: Took 0.004818 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.10.22-03.19.18:347][  0]LogViewport: Scene viewport resized to 2742x1262, mode Windowed.
+[2022.10.22-03.19.18:648][  0]LogStall: Startup...
+[2022.10.22-03.19.18:649][  0]LogStall: Startup complete.
+[2022.10.22-03.19.18:671][  0]LogLoad: (Engine Initialization) Total time: 7.70 seconds
+[2022.10.22-03.19.18:671][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.10.22-03.19.18:704][  0]LogAssetRegistry: Asset discovery search completed in 5.4504 seconds
+[2022.10.22-03.19.18:707][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2022.10.22-03.19.18:709][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.10.22-03.19.18:734][  0]LogSlate: Took 0.000058 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.10.22-03.19.35:615][  2]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.22-03.19.35:619][  2]LogWorldPartition: Display: GenerateStreaming started...
+[2022.10.22-03.19.35:619][  2]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.10.22-03.19.35:619][  2]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.10.22-03.19.35:619][  2]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.10.22-03.19.35:619][  2]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.10.22-03.19.35:619][  2]LogWorldPartition: Display: GetPartitionedActors took 37 us
+[2022.10.22-03.19.35:619][  2]LogWorldPartition: Display: GenerateStreaming took 214 us
+[2022.10.22-03.19.35:619][  2]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.22-03.19.35:619][  2]PIE: New page: PIE session: ThirdPersonMap (Oct 21, 2022, 5:19:35 PM)
+[2022.10.22-03.19.35:622][  2]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.10.22-03.19.35:622][  2]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.10.22-03.19.35:622][  2]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.10.22-03.19.35:625][  2]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.10.22-03.19.35:625][  2]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002970s)
+[2022.10.22-03.19.35:625][  2]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003015s)
+[2022.10.22-03.19.35:625][  2]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.22-03.19.35:625][  2]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2022.10.22-03.19.35:626][  2]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.10.22-03.19.35:626][  2]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.10.22-03.19.35:626][  2]LogWorldPartition: Display: WorldPartition initialize took 750 us
+[2022.10.22-03.19.35:626][  2]LogPlayLevel: PIE: World Init took: (0.001465s)
+[2022.10.22-03.19.35:631][  2]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.10.22-03.19.35:632][  2]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.10.22-03.19.35:632][  2]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.22-03.19.35:632][  2]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.22-03.19.35:632][  2]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.22-03.19.35:632][  2]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.22-03.19.35:632][  2]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.22-03.19.35:632][  2]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.22-03.19.35:632][  2]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.22-03.19.35:632][  2]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.22-03.19.35:632][  2]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.22-03.19.35:632][  2]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.22-03.19.35:632][  2]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.22-03.19.35:633][  2]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.22-03.19.35:651][  2]LogAudioMixer: Display: Using Audio Hardware Device Headphones (WH-1000XM5 Stereo)
+[2022.10.22-03.19.35:651][  2]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.22-03.19.35:651][  2]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.22-03.19.35:651][  2]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.22-03.19.35:652][  2]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.10.22-03.19.35:652][  2]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2022.10.22-03.19.35:653][  2]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.10.22-03.19.35:653][  2]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2022.10.22-03.19.35:653][  2]LogInit: FAudioDevice initialized.
+[2022.10.22-03.19.35:653][  2]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonMap'.
+[2022.10.22-03.19.35:663][  2]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.10.22-03.19.35:664][  2]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2022.10.21-22.19.35
+[2022.10.22-03.19.35:664][  2]LogWorld: Bringing up level for play took: 0.001215
+[2022.10.22-03.19.35:665][  2]LogOnline: OSS: Created online subsystem instance for: :Context_1
+[2022.10.22-03.19.35:681][  2]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2022.10.22-03.19.35:681][  2]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.10.22-03.19.35:682][  2]PIE: Server logged in
+[2022.10.22-03.19.35:682][  2]PIE: Play in editor total start time 0.064 seconds.
+[2022.10.22-03.19.52:812][ 29]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-03.19.52:812][ 29]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.10.22-03.19.52:813][ 29]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.22-03.19.52:813][ 29]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-03.19.52:824][ 29]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.22-03.19.52:826][ 29]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-03.19.52:831][ 29]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.22-03.19.52:831][ 29]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.10.22-03.19.52:832][ 29]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.10.22-03.19.52:835][ 29]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-03.19.52:836][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2022.10.22-03.19.52:882][ 31]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2022.10.22-03.20.00:888][589]LogSlate: Window 'New Level' being destroyed
+[2022.10.22-03.20.21:230][477]LogSlate: Took 0.004139 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.10.22-03.20.21:236][477]LogSlate: Took 0.002908 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.10.22-03.20.26:918][109]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.10.22-03.20.26:928][109]LogContentBrowser: Creating deferred item: NewFolder
+[2022.10.22-03.20.26:935][110]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.10.22-03.20.28:305][275]LogContentBrowser: Attempting asset rename: NewFolder -> Maps
+[2022.10.22-03.20.28:305][275]LogContentBrowser: End creating deferred item NewFolder
+[2022.10.22-03.20.31:819][665]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2022.10.22-03.20.31:826][665]LogContentBrowser: Creating deferred item: NewWorld
+[2022.10.22-03.20.31:843][667]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2022.10.22-03.20.36:613][240]LogContentBrowser: Attempting asset rename: NewWorld -> CstleEnvironment
+[2022.10.22-03.20.36:614][240]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.22-03.20.36:615][240]LogContentBrowser: End creating deferred item NewWorld
+[2022.10.22-03.20.39:547][588]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.10.22-03.20.48:324][588]LogSlate: Window 'Save Content' being destroyed
+[2022.10.22-03.20.52:649][ 86]LogContentBrowser: Attempting asset rename: CstleEnvironment -> CastleEnvironment
+[2022.10.22-03.20.52:699][ 86]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/CastleEnvironment" FILE="../../../../UnrealEngineProjects/CastleEnvironment/Content/Maps/CastleEnvironment.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.22-03.20.52:704][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.10.22-03.20.52:707][ 86]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.002643 seconds
+[2022.10.22-03.20.52:708][ 86]LogSavePackage: Moving output files for package: /Game/Maps/CastleEnvironment
+[2022.10.22-03.20.52:708][ 86]LogSavePackage: Moving '../../../../UnrealEngineProjects/CastleEnvironment/Saved/CastleEnvironment0884573A48043A9CD15ED58999B7C161.tmp' to '../../../../UnrealEngineProjects/CastleEnvironment/Content/Maps/CastleEnvironment.umap'
+[2022.10.22-03.20.52:712][ 86]LogFileHelpers: Saving map 'CastleEnvironment' took 0.014
+[2022.10.22-03.20.52:724][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2022.10.22-03.20.52:729][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2022.10.22-03.20.52:733][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2022.10.22-03.20.52:735][ 86]AssetCheck: New page: Asset Save: CastleEnvironment
+[2022.10.22-03.20.52:735][ 86]LogContentValidation: Display: Validating World /Game/Maps/CastleEnvironment.CastleEnvironment
+[2022.10.22-03.20.53:951][227]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2022.10.22-03.20.53:951][227]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/CastleEnvironment.CastleEnvironment
+[2022.10.22-03.20.53:952][227]Cmd: MAP LOAD FILE="../../../../UnrealEngineProjects/CastleEnvironment/Content/Maps/CastleEnvironment.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.10.22-03.20.53:952][227]LightingResults: New page: Lighting Build
+[2022.10.22-03.20.53:952][227]LoadErrors: New page: Loading map: CastleEnvironment.umap
+[2022.10.22-03.20.53:983][227]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.22-03.20.53:983][227]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-03.20.53:985][227]MapCheck: New page: Map Check
+[2022.10.22-03.20.53:985][227]LightingResults: New page: Lighting Build
+[2022.10.22-03.20.53:989][227]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.22-03.20.53:991][227]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2022.10.22-03.20.53:992][227]LogWorld: UWorld::CleanupWorld for CastleEnvironment, bSessionEnded=true, bCleanupResources=true
+[2022.10.22-03.20.53:992][227]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-03.20.53:997][227]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2022.10.22-03.20.54:001][227]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2022.10.22-03.20.54:002][227]LogAudio: Display: Audio Device (ID: 1) registered with world 'CastleEnvironment'.
+[2022.10.22-03.20.54:002][227]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.22-03.20.54:002][227]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.22-03.20.54:002][227]LogAIModule: Creating AISystem for world CastleEnvironment
+[2022.10.22-03.20.54:011][227]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.22-03.20.54:015][227]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2022.10.22-03.20.54:020][227]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.22-03.20.54:020][227]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.048ms to complete.
+[2022.10.22-03.20.54:020][227]LogFileHelpers: Loading map 'CastleEnvironment' took 0.069
+[2022.10.22-03.21.12:328][416]LogDerivedDataCache: C:/Users/Calfr/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.064 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.22-03.21.36:392][206]LogEditorViewport: Clicking Background
+[2022.10.22-03.21.41:113][743]LogViewport: Scene viewport resized to 2105x1262, mode Windowed.
+[2022.10.22-03.21.49:703][745]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_0 (BGRA8, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2022.10.22-03.21.55:696][418]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2022.10.22-03.21.55:696][418]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2022.10.22-03.21.55:697][418]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.DirectionalLight_0
+[2022.10.22-03.21.55:697][418]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.DirectionalLight_0
+[2022.10.22-03.21.57:638][649]Cmd: TRANSACTION UNDO
+[2022.10.22-03.21.57:638][649]LogEditorTransaction: Undo Create Actor
+[2022.10.22-03.22.03:465][ 92]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2022.10.22-03.22.03:465][ 92]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2022.10.22-03.22.03:466][ 92]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.DirectionalLight_1
+[2022.10.22-03.22.03:466][ 92]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.DirectionalLight_1
+[2022.10.22-03.22.04:990][273]Cmd: TRANSACTION UNDO
+[2022.10.22-03.22.04:990][273]LogEditorTransaction: Undo Create Actor
+[2022.10.22-03.22.07:938][565]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2022.10.22-03.22.07:938][565]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2022.10.22-03.22.07:939][565]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.DirectionalLight_2
+[2022.10.22-03.22.07:939][565]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.DirectionalLight_2
+[2022.10.22-03.22.09:546][754]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2022.10.22-03.22.09:546][754]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2022.10.22-03.22.09:547][754]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.DirectionalLight_3
+[2022.10.22-03.22.09:547][754]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.DirectionalLight_3
+[2022.10.22-03.22.20:961][ 71]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyAtmosphere
+[2022.10.22-03.22.20:962][ 71]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyAtmosphere
+[2022.10.22-03.22.20:962][ 71]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyAtmosphere as actor: SkyAtmosphere /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.SkyAtmosphere_0
+[2022.10.22-03.22.20:962][ 71]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyAtmosphere as actor: SkyAtmosphere /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.SkyAtmosphere_0
+[2022.10.22-03.22.21:724][159]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyAtmosphere
+[2022.10.22-03.22.21:724][159]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyAtmosphere
+[2022.10.22-03.22.21:725][159]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyAtmosphere as actor: SkyAtmosphere /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.SkyAtmosphere_1
+[2022.10.22-03.22.21:725][159]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyAtmosphere as actor: SkyAtmosphere /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.SkyAtmosphere_1
+[2022.10.22-03.22.31:660][122]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2022.10.22-03.22.31:660][122]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2022.10.22-03.22.31:660][122]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.StaticMeshActor_0
+[2022.10.22-03.22.31:667][122]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.StaticMeshActor_0
+[2022.10.22-03.22.33:348][322]Cmd: TRANSACTION UNDO
+[2022.10.22-03.22.33:348][322]LogEditorTransaction: Undo Create Actor
+[2022.10.22-03.22.36:761][663]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2022.10.22-03.22.36:761][663]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2022.10.22-03.22.36:761][663]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.StaticMeshActor_1
+[2022.10.22-03.22.36:761][663]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.StaticMeshActor_1
+[2022.10.22-03.22.38:190][831]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2022.10.22-03.22.38:190][831]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2022.10.22-03.22.38:191][831]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.StaticMeshActor_2
+[2022.10.22-03.22.38:191][831]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.StaticMeshActor_2
+[2022.10.22-03.22.41:526][225]LogViewport: Scene viewport resized to 2742x1262, mode Windowed.
+[2022.10.22-03.22.52:928][510]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2022.10.22-03.22.52:928][510]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2022.10.22-03.22.52:928][510]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny as actor: SkeletalMeshActor /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.SkeletalMeshActor_0
+[2022.10.22-03.22.52:945][510]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (SKM_Manny) ...
+[2022.10.22-03.22.52:975][510]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny as actor: SkeletalMeshActor /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.SkeletalMeshActor_0
+[2022.10.22-03.22.57:100][991]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2022.10.22-03.22.57:100][991]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2022.10.22-03.22.57:100][991]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny as actor: SkeletalMeshActor /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.SkeletalMeshActor_1
+[2022.10.22-03.22.57:104][991]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny as actor: SkeletalMeshActor /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.SkeletalMeshActor_1
+[2022.10.22-03.22.57:140][991]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.10.22-03.23.04:178][776]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2022.10.22-03.23.04:178][776]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2022.10.22-03.23.04:178][776]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.SkyLight_0
+[2022.10.22-03.23.04:178][776]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.SkyLight_0
+[2022.10.22-03.23.06:801][ 77]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2022.10.22-03.23.06:801][ 77]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2022.10.22-03.23.06:802][ 77]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.SkyLight_1
+[2022.10.22-03.23.06:802][ 77]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.SkyLight_1
+[2022.10.22-03.23.44:682][536]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.ExponentialHeightFog
+[2022.10.22-03.23.44:682][536]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.ExponentialHeightFog
+[2022.10.22-03.23.44:682][536]LogActorFactory: Actor Factory spawned Class /Script/Engine.ExponentialHeightFog as actor: ExponentialHeightFog /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.ExponentialHeightFog_0
+[2022.10.22-03.23.44:682][536]LogActorFactory: Actor Factory spawned Class /Script/Engine.ExponentialHeightFog as actor: ExponentialHeightFog /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.ExponentialHeightFog_0
+[2022.10.22-03.23.47:915][919]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.ExponentialHeightFog
+[2022.10.22-03.23.47:915][919]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.ExponentialHeightFog
+[2022.10.22-03.23.47:915][919]LogActorFactory: Actor Factory spawned Class /Script/Engine.ExponentialHeightFog as actor: ExponentialHeightFog /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.ExponentialHeightFog_1
+[2022.10.22-03.23.47:915][919]LogActorFactory: Actor Factory spawned Class /Script/Engine.ExponentialHeightFog as actor: ExponentialHeightFog /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.ExponentialHeightFog_1
+[2022.10.22-03.23.54:948][696]Cmd: MODE GRID=0
+[2022.10.22-03.23.58:075][ 63]Cmd: MODE SCALEGRID=0
+[2022.10.22-03.24.10:141][417]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PostProcessVolume
+[2022.10.22-03.24.10:141][417]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PostProcessVolume
+[2022.10.22-03.24.10:141][417]LogActorFactory: Actor Factory spawned Class /Script/Engine.PostProcessVolume as actor: PostProcessVolume /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.PostProcessVolume_0
+[2022.10.22-03.24.10:142][417]LogActorFactory: Actor Factory spawned Class /Script/Engine.PostProcessVolume as actor: PostProcessVolume /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.PostProcessVolume_0
+[2022.10.22-03.24.11:878][619]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PostProcessVolume
+[2022.10.22-03.24.11:878][619]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PostProcessVolume
+[2022.10.22-03.24.11:878][619]LogActorFactory: Actor Factory spawned Class /Script/Engine.PostProcessVolume as actor: PostProcessVolume /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.PostProcessVolume_1
+[2022.10.22-03.24.11:879][619]LogActorFactory: Actor Factory spawned Class /Script/Engine.PostProcessVolume as actor: PostProcessVolume /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.PostProcessVolume_1
+[2022.10.22-03.25.13:389][335]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.VolumetricCloud
+[2022.10.22-03.25.13:389][335]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.VolumetricCloud
+[2022.10.22-03.25.13:389][335]LogActorFactory: Actor Factory spawned Class /Script/Engine.VolumetricCloud as actor: VolumetricCloud /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.VolumetricCloud_0
+[2022.10.22-03.25.13:389][335]LogActorFactory: Actor Factory spawned Class /Script/Engine.VolumetricCloud as actor: VolumetricCloud /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.VolumetricCloud_0
+[2022.10.22-03.25.16:210][666]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.VolumetricCloud
+[2022.10.22-03.25.16:210][666]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.VolumetricCloud
+[2022.10.22-03.25.16:211][666]LogActorFactory: Actor Factory spawned Class /Script/Engine.VolumetricCloud as actor: VolumetricCloud /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.VolumetricCloud_1
+[2022.10.22-03.25.16:211][666]LogActorFactory: Actor Factory spawned Class /Script/Engine.VolumetricCloud as actor: VolumetricCloud /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.VolumetricCloud_1
+[2022.10.22-03.29.37:007][586]LogViewport: Scene viewport resized to 1361x1256, mode Windowed.
+[2022.10.22-03.30.54:492][134]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.10.22-03.30.54:527][134]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/CastleEnvironment_Auto1
+[2022.10.22-03.30.54:527][134]LogSavePackage: Moving '../../../../UnrealEngineProjects/CastleEnvironment/Saved/CastleEnvironment_Auto14EBD991A4C878C36045B46AED67BBE2D.tmp' to '../../../../UnrealEngineProjects/CastleEnvironment/Saved/Autosaves/Game/Maps/CastleEnvironment_Auto1.umap'
+[2022.10.22-03.30.54:532][134]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/CastleEnvironment' took 0.062
+[2022.10.22-03.30.54:532][134]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.062
+[2022.10.22-03.32.00:848][967]LogViewport: Scene viewport resized to 1014x582, mode Windowed.
+[2022.10.22-03.32.01:153][967]LogViewport: Scene viewport resized to 2742x1262, mode Windowed.
+[2022.10.22-03.32.06:555][567]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2022.10.22-03.32.08:176][567]LogSlate: Window 'Save Content' being destroyed
+[2022.10.22-03.32.08:203][567]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/CastleEnvironment" FILE="../../../../UnrealEngineProjects/CastleEnvironment/Content/Maps/CastleEnvironment.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.22-03.32.08:207][567]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.10.22-03.32.08:238][567]LogSavePackage: Moving output files for package: /Game/Maps/CastleEnvironment
+[2022.10.22-03.32.08:238][567]LogSavePackage: Moving '../../../../UnrealEngineProjects/CastleEnvironment/Saved/CastleEnvironment1C9652FE415EF6D7BB53D588C0A15177.tmp' to '../../../../UnrealEngineProjects/CastleEnvironment/Content/Maps/CastleEnvironment.umap'
+[2022.10.22-03.32.08:244][567]LogFileHelpers: Saving map 'CastleEnvironment' took 0.042
+[2022.10.22-03.32.08:424][567]LogAssetEditorSubsystem: Opening Asset editor for World /Game/CastleAssets/Maps/Overview.Overview
+[2022.10.22-03.32.08:424][567]Cmd: MAP LOAD FILE="../../../../UnrealEngineProjects/CastleEnvironment/Content/CastleAssets/Maps/Overview.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.10.22-03.32.08:424][567]LightingResults: New page: Lighting Build
+[2022.10.22-03.32.08:424][567]LoadErrors: New page: Loading map: Overview.umap
+[2022.10.22-03.32.08:426][567]LogWorld: UWorld::CleanupWorld for CastleEnvironment, bSessionEnded=true, bCleanupResources=true
+[2022.10.22-03.32.08:426][567]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-03.32.08:426][567]MapCheck: New page: Map Check
+[2022.10.22-03.32.08:426][567]LightingResults: New page: Lighting Build
+[2022.10.22-03.32.08:431][567]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.22-03.32.08:436][567]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.10.22-03.32.08:438][567]LogShaderCompilers: Display: ================================================
+[2022.10.22-03.32.08:438][567]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.10.22-03.32.08:438][567]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.10.22-03.32.08:438][567]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.10.22-03.32.08:438][567]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.10.22-03.32.08:438][567]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.10.22-03.32.08:438][567]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.10.22-03.32.08:438][567]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.10.22-03.32.08:438][567]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.10.22-03.32.08:438][567]LogShaderCompilers: Display: ================================================
+[2022.10.22-03.32.08:450][567]LogWorld: UWorld::CleanupWorld for Overview, bSessionEnded=true, bCleanupResources=true
+[2022.10.22-03.32.08:450][567]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-03.32.08:459][567]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.10.22-03.32.08:464][567]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.10.22-03.32.08:485][567]LogAudio: Display: Audio Device (ID: 1) registered with world 'Overview'.
+[2022.10.22-03.32.08:485][567]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.22-03.32.08:485][567]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.22-03.32.08:485][567]LogAIModule: Creating AISystem for world Overview
+[2022.10.22-03.32.08:558][567]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.22-03.32.08:565][567]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.10.22-03.32.08:570][567]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.22-03.32.08:571][567]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.058ms to complete.
+[2022.10.22-03.32.08:571][567]LogFileHelpers: Loading map 'Overview' took 0.146
+[2022.10.22-03.32.08:583][567]AssetCheck: New page: Asset Save: CastleEnvironment
+[2022.10.22-03.32.08:583][567]LogContentValidation: Display: Validating World /Game/Maps/CastleEnvironment.CastleEnvironment
+[2022.10.22-03.32.08:998][568]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2022.10.22-03.32.31:319][914]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2022.10.22-03.32.37:420][459]LogSlate: Took 0.000078 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.10.22-03.32.52:365][345]LogSlate: Window 'Project Settings' being destroyed
+[2022.10.22-03.32.52:371][345]LogSlate: Window 'Project Settings' being destroyed
+[2022.10.22-03.33.00:064][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.10.22-03.33.00:065][171]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/CastleEnvironment.CastleEnvironment
+[2022.10.22-03.33.00:065][171]Cmd: MAP LOAD FILE="../../../../UnrealEngineProjects/CastleEnvironment/Content/Maps/CastleEnvironment.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.10.22-03.33.00:065][171]LightingResults: New page: Lighting Build
+[2022.10.22-03.33.00:065][171]LoadErrors: New page: Loading map: CastleEnvironment.umap
+[2022.10.22-03.33.00:107][171]LogWorld: UWorld::CleanupWorld for Overview, bSessionEnded=true, bCleanupResources=true
+[2022.10.22-03.33.00:107][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-03.33.00:107][171]MapCheck: New page: Map Check
+[2022.10.22-03.33.00:107][171]LightingResults: New page: Lighting Build
+[2022.10.22-03.33.00:112][171]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.22-03.33.00:114][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.10.22-03.33.00:116][171]LogWorld: UWorld::CleanupWorld for CastleEnvironment, bSessionEnded=true, bCleanupResources=true
+[2022.10.22-03.33.00:116][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-03.33.00:124][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.10.22-03.33.00:129][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2022.10.22-03.33.00:146][171]LogAudio: Display: Audio Device (ID: 1) registered with world 'CastleEnvironment'.
+[2022.10.22-03.33.00:146][171]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.22-03.33.00:146][171]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.22-03.33.00:146][171]LogAIModule: Creating AISystem for world CastleEnvironment
+[2022.10.22-03.33.00:202][171]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.22-03.33.00:207][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.10.22-03.33.00:213][171]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.22-03.33.00:213][171]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.055ms to complete.
+[2022.10.22-03.33.00:213][171]LogFileHelpers: Loading map 'CastleEnvironment' took 0.148
+[2022.10.22-03.33.47:882][669]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: B45FE89BBCF40FDF6C80454852964566CED757C4), compiling. 
+[2022.10.22-03.33.49:417][791]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: D18F26C3A799A59AA8C03C533CEA884BA4D2CDC9), compiling. 
+[2022.10.22-03.33.50:110][848]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 876D73982D645E76870640682F7B60C97DC622A3), compiling. 
+[2022.10.22-03.33.50:135][849]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: DB747758AE7958A2A456DC6B22F009A4376BFDCD), compiling. 
+[2022.10.22-03.33.50:654][891]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_66 in PCD3D_SM5, Default, SM5 (DDC key hash: 315BCE265F373B7DF0DEAA775F3A297F6D646D72), compiling. 
+[2022.10.22-03.33.51:629][966]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 8C494B6216B958798F1FA549ECE9DFE8861ADAB9), compiling. 
+[2022.10.22-03.33.52:340][ 21]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 607DFA06C5A07E208545EF7ADE41D1CF99DA721F), compiling. 
+[2022.10.22-03.33.53:052][ 82]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 4BE180DED96C4FF0EC165ACEE51F3E4E7A52039F), compiling. 
+[2022.10.22-03.33.53:079][ 83]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: BFD2296C70A5317EFA995B4CDE4D62DCEE218097), compiling. 
+[2022.10.22-03.34.03:877][821]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_15 in PCD3D_SM5, Default, SM5 (DDC key hash: 800102435D32B0F213BD27EA8622AA1D2FE6DB51), compiling. 
+[2022.10.22-03.34.03:891][821]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_16 in PCD3D_SM5, Default, SM5 (DDC key hash: 48192C6D272B84EB8918C549BFCC735610257C8A), compiling. 
+[2022.10.22-03.34.03:897][821]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_17 in PCD3D_SM5, Default, SM5 (DDC key hash: 09B338DB513D63E94DDB78E85C576E3D8D57F87F), compiling. 
+[2022.10.22-03.34.03:905][821]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_18 in PCD3D_SM5, Default, SM5 (DDC key hash: 64E8F3C295BA3FADCC528553CBF3DDE8F328FE2B), compiling. 
+[2022.10.22-03.34.03:911][821]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_19 in PCD3D_SM5, Default, SM5 (DDC key hash: 3EB749B9F6BFDD5DE8A103206269C79776C8646F), compiling. 
+[2022.10.22-03.34.03:917][821]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_20 in PCD3D_SM5, Default, SM5 (DDC key hash: AB27FF35D0AD984DEE891DBCEAE601ADBEECED98), compiling. 
+[2022.10.22-03.34.03:922][821]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_21 in PCD3D_SM5, Default, SM5 (DDC key hash: 332B9E71FE0B17ED7708C6FA600932FA01D32712), compiling. 
+[2022.10.22-03.34.03:945][821]LogViewport: Scene viewport resized to 2105x1262, mode Windowed.
+[2022.10.22-03.34.26:706][614]LogSlate: Window 'Create New Landscape Layer Info Object' being destroyed
+[2022.10.22-03.34.26:766][614]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_132 in PCD3D_SM5, Default, SM5 (DDC key hash: C12C0F4E5EF9D830F9EE75A7BEC3F6559B22E91E), compiling. 
+[2022.10.22-03.34.49:190][847]LogSlate: Window 'Message' being destroyed
+[2022.10.22-03.34.49:195][847]Message dialog closed, result: Ok, title: Message, text: This layer has no layer info assigned yet. You must create or assign a layer info before you can paint this layer.
+[2022.10.22-03.34.55:755][515]Cmd: TRANSACTION UNDO
+[2022.10.22-03.34.55:755][515]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2022.10.22-03.35.02:728][218]Cmd: TRANSACTION UNDO
+[2022.10.22-03.35.02:728][218]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2022.10.22-03.35.02:766][218]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_0 (BGRA8, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2022.10.22-03.35.03:290][238]Cmd: TRANSACTION UNDO
+[2022.10.22-03.35.03:290][238]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2022.10.22-03.35.03:321][238]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_0 (BGRA8, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2022.10.22-03.35.03:773][283]Cmd: TRANSACTION UNDO
+[2022.10.22-03.35.03:773][283]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2022.10.22-03.35.03:814][283]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_0 (BGRA8, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2022.10.22-03.35.04:299][331]Cmd: TRANSACTION UNDO
+[2022.10.22-03.35.04:299][331]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2022.10.22-03.35.04:336][331]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_0 (BGRA8, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2022.10.22-03.35.04:807][377]Cmd: TRANSACTION UNDO
+[2022.10.22-03.35.04:807][377]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2022.10.22-03.35.04:837][377]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_0 (BGRA8, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2022.10.22-03.35.05:328][425]Cmd: TRANSACTION UNDO
+[2022.10.22-03.35.05:328][425]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2022.10.22-03.35.24:601][988]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/CastleAssets/Landscape/M_Landscape_Inst.M_Landscape_Inst
+[2022.10.22-03.35.24:603][988]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.22-03.35.25:007][988]LogViewport: Scene viewport resized to 1021x854, mode Windowed.
+[2022.10.22-03.35.41:056][103]LogSlate: Window 'Details' being destroyed
+[2022.10.22-03.35.41:058][103]LogSlate: Window 'Details' being destroyed
+[2022.10.22-03.35.41:058][103]LogSlate: Window 'M_Landscape_Inst' being destroyed
+[2022.10.22-03.35.41:059][103]LogSlate: Window 'M_Landscape_Inst' being destroyed
+[2022.10.22-03.35.41:072][103]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.10.22-03.35.41:072][103]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-03.35.46:355][206]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/CastleAssets/Landscape/M_Landscape_Inst.M_Landscape_Inst
+[2022.10.22-03.35.46:357][206]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.22-03.35.46:744][206]LogViewport: Scene viewport resized to 1021x854, mode Windowed.
+[2022.10.22-03.36.01:549][160]LogSlate: Window 'Details' being destroyed
+[2022.10.22-03.36.01:569][160]LogViewport: Scene viewport resized to 1021x425, mode Windowed.
+[2022.10.22-03.36.03:384][330]LogViewport: Scene viewport resized to 1021x854, mode Windowed.
+[2022.10.22-03.37.10:072][162]LogSlate: Window 'M_Landscape_Inst' being destroyed
+[2022.10.22-03.37.10:085][162]LogSlate: Window 'M_Landscape_Inst' being destroyed
+[2022.10.22-03.37.10:127][162]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.10.22-03.37.10:127][162]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-03.37.19:426][472]LogSlate: Window 'Create New Landscape Layer Info Object' being destroyed
+[2022.10.22-03.37.23:037][732]LogSlate: Window 'Create New Landscape Layer Info Object' being destroyed
+[2022.10.22-03.37.28:032][132]LogSlate: Window 'Create New Landscape Layer Info Object' being destroyed
+[2022.10.22-03.37.32:172][449]LogSlate: Window 'Create New Landscape Layer Info Object' being destroyed
+[2022.10.22-03.38.15:444][182]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/CastleAssets/Landscape/M_Landscape_Inst.M_Landscape_Inst
+[2022.10.22-03.38.15:446][182]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.22-03.38.15:810][182]LogViewport: Scene viewport resized to 1021x854, mode Windowed.
+[2022.10.22-03.43.11:480][776]LogSlate: Window 'M_Landscape_Inst' being destroyed
+[2022.10.22-03.43.11:493][776]LogSlate: Window 'M_Landscape_Inst' being destroyed
+[2022.10.22-03.43.11:536][776]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.10.22-03.43.11:536][776]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-03.45.53:853][738]LogViewport: Scene viewport resized to 2742x1262, mode Windowed.
+[2022.10.22-03.45.56:620][ 54]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.10.22-03.46.51:780][990]LogViewport: Scene viewport resized to 2105x1262, mode Windowed.
+[2022.10.22-03.48.30:524][210]Cmd: TRANSACTION UNDO
+[2022.10.22-03.48.30:524][210]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2022.10.22-03.48.30:558][210]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_0 (BGRA8, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2022.10.22-03.48.32:979][446]Cmd: TRANSACTION UNDO
+[2022.10.22-03.48.32:979][446]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2022.10.22-03.48.45:536][716]Cmd: POLY SELECT ADJACENT WALLS
+[2022.10.22-03.49.16:130][696]Cmd: TRANSACTION UNDO
+[2022.10.22-03.49.16:130][696]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2022.10.22-03.49.16:161][696]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_0 (BGRA8, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2022.10.22-03.49.27:215][901]Cmd: TRANSACTION UNDO
+[2022.10.22-03.49.27:215][901]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2022.10.22-03.49.27:244][901]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_0 (BGRA8, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2022.10.22-03.49.28:976][ 56]Cmd: TRANSACTION UNDO
+[2022.10.22-03.49.28:976][ 56]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2022.10.22-03.49.29:002][ 56]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_0 (BGRA8, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2022.10.22-03.49.40:447][266]Cmd: ACTOR SELECT ALL
+[2022.10.22-03.49.43:112][523]Cmd: TRANSACTION UNDO
+[2022.10.22-03.49.43:112][523]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2022.10.22-03.49.43:133][523]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_0 (BGRA8, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2022.10.22-03.49.43:577][541]Cmd: TRANSACTION UNDO
+[2022.10.22-03.49.43:577][541]LogEditorTransaction: Undo Clicking on Elements
+[2022.10.22-03.49.44:568][647]Cmd: TRANSACTION UNDO
+[2022.10.22-03.49.44:568][647]LogEditorTransaction: Undo Select All
+[2022.10.22-03.49.45:648][768]Cmd: TRANSACTION UNDO
+[2022.10.22-03.49.45:648][768]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2022.10.22-03.49.45:679][768]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_0 (BGRA8, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2022.10.22-03.49.59:939][323]Cmd: TRANSACTION UNDO
+[2022.10.22-03.49.59:939][323]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2022.10.22-03.49.59:965][323]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_0 (BGRA8, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2022.10.22-03.50.54:374][722]Cmd: TRANSACTION UNDO
+[2022.10.22-03.50.54:374][722]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2022.10.22-03.50.54:422][722]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_0 (BGRA8, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2022.10.22-03.50.57:221][993]Cmd: TRANSACTION UNDO
+[2022.10.22-03.50.57:221][993]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2022.10.22-03.50.57:253][993]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_0 (BGRA8, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2022.10.22-03.50.59:263][229]Cmd: TRANSACTION UNDO
+[2022.10.22-03.50.59:263][229]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2022.10.22-03.53.48:693][264]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_16 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-03.53.49:497][324]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_26 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-03.53.50:493][422]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_28 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-03.53.54:041][753]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_46 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-03.53.55:439][913]Cmd: TRANSACTION UNDO
+[2022.10.22-03.53.55:439][913]LogEditorTransaction: Undo Landscape Editing: Add New Landscape Component
+[2022.10.22-03.53.55:470][913]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Weightmap_37 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-03.53.55:475][913]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_0 (BGRA8, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2022.10.22-03.53.55:476][913]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_16 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-03.53.55:477][913]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_36 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-03.53.55:486][913]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_38 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-03.53.56:168][956]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_48 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-03.53.57:407][ 68]Cmd: TRANSACTION UNDO
+[2022.10.22-03.53.57:407][ 68]LogEditorTransaction: Undo Landscape Editing: Add New Landscape Component
+[2022.10.22-03.53.58:034][132]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_57 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-03.53.58:876][188]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_63 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-03.54.00:552][381]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_64 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-03.54.01:447][444]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_69 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-03.54.01:575][452]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_71 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-03.54.01:970][477]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_73 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-03.54.02:138][487]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_74 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-03.54.02:309][497]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_76 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-03.54.04:875][733]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_83 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-03.54.06:161][873]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_84 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-03.54.06:675][901]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_91 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-03.55.11:512][477]LogEditorViewport: Clicking Background
+[2022.10.22-03.55.20:858][383]Cmd: TRANSACTION UNDO
+[2022.10.22-03.55.20:858][383]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2022.10.22-03.55.20:874][383]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_0 (BGRA8, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2022.10.22-03.55.20:876][383]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_86 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-03.55.20:877][383]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_87 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-03.55.20:878][383]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_88 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-03.55.20:879][383]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_91 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-03.55.20:887][383]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_89 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-03.57.24:911][820]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.10.22-03.57.24:922][820]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_0 (BGRA8, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2022.10.22-03.57.24:923][820]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_31 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-03.57.24:924][820]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_30 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-03.57.24:925][820]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_29 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-03.57.24:926][820]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_28 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-03.57.24:931][820]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_26 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-03.57.24:932][820]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_25 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-03.57.24:933][820]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_24 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-03.57.24:933][820]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_23 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-03.57.24:935][820]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_21 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-03.57.24:936][820]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_20 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-03.57.24:937][820]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_19 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-03.57.24:938][820]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_18 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-03.57.24:939][820]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_16 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-03.57.24:941][820]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_33 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-03.57.24:942][820]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_34 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-03.57.24:943][820]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_35 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-03.57.24:944][820]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_36 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-03.57.24:945][820]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_38 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-03.57.24:946][820]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_57 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-03.57.24:947][820]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_58 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-03.57.24:948][820]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_59 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-03.57.24:951][820]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_61 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-03.57.24:954][820]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_62 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-03.57.24:956][820]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_63 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-03.57.24:957][820]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_64 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-03.57.24:960][820]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_66 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-03.57.24:961][820]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_67 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-03.57.24:963][820]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_68 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-03.57.24:964][820]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_69 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-03.57.24:967][820]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_71 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-03.57.24:969][820]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_72 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-03.57.24:971][820]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_73 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-03.57.24:972][820]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_74 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-03.57.24:973][820]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_76 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-03.57.24:974][820]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_77 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-03.57.24:975][820]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_78 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-03.57.24:976][820]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_79 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-03.57.24:977][820]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_81 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-03.57.24:978][820]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_82 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-03.57.24:979][820]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_83 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-03.57.24:980][820]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_84 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-03.57.24:981][820]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_86 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-03.57.24:982][820]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_87 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-03.57.24:983][820]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_88 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-03.57.24:984][820]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_89 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-03.57.25:052][820]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_91 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-03.57.25:052][820]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/CastleEnvironment_Auto2
+[2022.10.22-03.57.25:052][820]LogSavePackage: Moving '../../../../UnrealEngineProjects/CastleEnvironment/Saved/CastleEnvironment_Auto2770257ED4CF14EB392DE5CBFEF77B186.tmp' to '../../../../UnrealEngineProjects/CastleEnvironment/Saved/Autosaves/Game/Maps/CastleEnvironment_Auto2.umap'
+[2022.10.22-03.57.25:057][820]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/CastleEnvironment' took 0.157
+[2022.10.22-03.57.25:057][820]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.157
+[2022.10.22-04.00.12:173][177]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/CastleAssets/Meshes/SM_Mountain_Eroded_01.SM_Mountain_Eroded_01
+[2022.10.22-04.00.12:173][177]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/CastleAssets/Meshes/SM_Mountain_Eroded_01.SM_Mountain_Eroded_01
+[2022.10.22-04.00.12:174][177]LogActorFactory: Actor Factory spawned StaticMesh /Game/CastleAssets/Meshes/SM_Mountain_Eroded_01.SM_Mountain_Eroded_01 as actor: StaticMeshActor /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.StaticMeshActor_0
+[2022.10.22-04.00.12:174][177]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/CastleAssets/Meshes/SM_Mountain_Eroded_03.SM_Mountain_Eroded_03
+[2022.10.22-04.00.12:174][177]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/CastleAssets/Meshes/SM_Mountain_Eroded_03.SM_Mountain_Eroded_03
+[2022.10.22-04.00.12:174][177]LogActorFactory: Actor Factory spawned StaticMesh /Game/CastleAssets/Meshes/SM_Mountain_Eroded_03.SM_Mountain_Eroded_03 as actor: StaticMeshActor /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.StaticMeshActor_1
+[2022.10.22-04.00.12:175][177]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/CastleAssets/Meshes/SM_Mountain_Eroded_04.SM_Mountain_Eroded_04
+[2022.10.22-04.00.12:175][177]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/CastleAssets/Meshes/SM_Mountain_Eroded_04.SM_Mountain_Eroded_04
+[2022.10.22-04.00.12:175][177]LogActorFactory: Actor Factory spawned StaticMesh /Game/CastleAssets/Meshes/SM_Mountain_Eroded_04.SM_Mountain_Eroded_04 as actor: StaticMeshActor /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.StaticMeshActor_3
+[2022.10.22-04.00.12:911][257]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/CastleAssets/Meshes/SM_Mountain_Eroded_01.SM_Mountain_Eroded_01
+[2022.10.22-04.00.12:911][257]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/CastleAssets/Meshes/SM_Mountain_Eroded_01.SM_Mountain_Eroded_01
+[2022.10.22-04.00.12:911][257]LogActorFactory: Actor Factory spawned StaticMesh /Game/CastleAssets/Meshes/SM_Mountain_Eroded_01.SM_Mountain_Eroded_01 as actor: StaticMeshActor /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.StaticMeshActor_4
+[2022.10.22-04.00.12:912][257]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/CastleAssets/Meshes/SM_Mountain_Eroded_03.SM_Mountain_Eroded_03
+[2022.10.22-04.00.12:912][257]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/CastleAssets/Meshes/SM_Mountain_Eroded_03.SM_Mountain_Eroded_03
+[2022.10.22-04.00.12:912][257]LogActorFactory: Actor Factory spawned StaticMesh /Game/CastleAssets/Meshes/SM_Mountain_Eroded_03.SM_Mountain_Eroded_03 as actor: StaticMeshActor /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.StaticMeshActor_5
+[2022.10.22-04.00.12:913][257]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/CastleAssets/Meshes/SM_Mountain_Eroded_04.SM_Mountain_Eroded_04
+[2022.10.22-04.00.12:913][257]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/CastleAssets/Meshes/SM_Mountain_Eroded_04.SM_Mountain_Eroded_04
+[2022.10.22-04.00.12:913][257]LogActorFactory: Actor Factory spawned StaticMesh /Game/CastleAssets/Meshes/SM_Mountain_Eroded_04.SM_Mountain_Eroded_04 as actor: StaticMeshActor /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.StaticMeshActor_6
+[2022.10.22-04.00.25:915][758]LogViewport: Scene viewport resized to 2742x1262, mode Windowed.
+[2022.10.22-04.03.12:068][972]LogEditorViewport: Clicking Background
+[2022.10.22-04.03.29:207][984]LogEditorViewport: Clicking Background
+[2022.10.22-04.03.37:705][909]LogEditorViewport: Clicking Background
+[2022.10.22-04.03.50:455][417]LogEditorViewport: Clicking Background
+[2022.10.22-04.03.56:915][175]LogEditorViewport: Clicking Background
+[2022.10.22-04.04.00:397][579]LogEditorViewport: Clicking Background
+[2022.10.22-04.04.03:014][878]LogEditorViewport: Clicking Background
+[2022.10.22-04.04.11:758][837]LogEditorViewport: Clicking Background
+[2022.10.22-04.04.33:290][291]LogEditorViewport: Clicking Background
+[2022.10.22-04.05.58:034][114]LogEditorViewport: Clicking Background
+[2022.10.22-04.06.03:404][738]LogEditorViewport: Clicking Background
+[2022.10.22-04.06.10:341][551]LogEditorViewport: Clicking Background
+[2022.10.22-04.06.16:166][232]LogEditorViewport: Clicking Background
+[2022.10.22-04.06.59:871][351]LogEditorViewport: Clicking Background
+[2022.10.22-04.07.09:159][436]LogEditorViewport: Clicking Background
+[2022.10.22-04.09.11:077][123]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.10.22-04.09.11:149][123]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/CastleEnvironment_Auto3
+[2022.10.22-04.09.11:149][123]LogSavePackage: Moving '../../../../UnrealEngineProjects/CastleEnvironment/Saved/CastleEnvironment_Auto354D9B88E40C4D800B2A50CA1C45A8F5A.tmp' to '../../../../UnrealEngineProjects/CastleEnvironment/Saved/Autosaves/Game/Maps/CastleEnvironment_Auto3.umap'
+[2022.10.22-04.09.11:154][123]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/CastleEnvironment' took 0.082
+[2022.10.22-04.09.11:154][123]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.082
+[2022.10.22-04.09.29:584][573]Cmd: DELETE
+[2022.10.22-04.09.29:584][573]Cmd: ACTOR DELETE
+[2022.10.22-04.09.29:587][573]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.10.22-04.09.29:592][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2022.10.22-04.09.29:594][573]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2022.10.22-04.09.30:978][728]Cmd: DELETE
+[2022.10.22-04.09.30:978][728]Cmd: ACTOR DELETE
+[2022.10.22-04.09.30:981][728]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.10.22-04.09.30:986][728]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.10.22-04.09.30:988][728]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2022.10.22-04.09.32:507][898]Cmd: DELETE
+[2022.10.22-04.09.32:507][898]Cmd: ACTOR DELETE
+[2022.10.22-04.09.32:510][898]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.10.22-04.09.32:515][898]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2022.10.22-04.09.32:517][898]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2022.10.22-04.09.35:229][214]Cmd: DELETE
+[2022.10.22-04.09.35:229][214]Cmd: ACTOR DELETE
+[2022.10.22-04.09.35:232][214]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.10.22-04.09.35:237][214]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.10.22-04.09.35:239][214]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2022.10.22-04.11.14:065][691]LogEditorViewport: Clicking Background
+[2022.10.22-04.11.22:278][588]LogEditorViewport: Clicking Background
+[2022.10.22-04.12.31:356][518]Cmd: TRANSACTION UNDO
+[2022.10.22-04.12.31:357][518]LogEditorTransaction: Undo Move Elements
+[2022.10.22-04.12.34:546][776]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.10.22-04.12.45:193][401]LogViewport: Scene viewport resized to 2105x1262, mode Windowed.
+[2022.10.22-04.14.44:266][132]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/CastleAssets/Meshes/SM_WaterPlane.SM_WaterPlane
+[2022.10.22-04.14.44:266][132]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/CastleAssets/Meshes/SM_WaterPlane.SM_WaterPlane
+[2022.10.22-04.14.44:266][132]LogActorFactory: Actor Factory spawned StaticMesh /Game/CastleAssets/Meshes/SM_WaterPlane.SM_WaterPlane as actor: StaticMeshActor /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.StaticMeshActor_15
+[2022.10.22-04.14.45:384][261]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/CastleAssets/Meshes/SM_WaterPlane.SM_WaterPlane
+[2022.10.22-04.14.45:384][261]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/CastleAssets/Meshes/SM_WaterPlane.SM_WaterPlane
+[2022.10.22-04.14.45:384][261]LogActorFactory: Actor Factory spawned StaticMesh /Game/CastleAssets/Meshes/SM_WaterPlane.SM_WaterPlane as actor: StaticMeshActor /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.StaticMeshActor_16
+[2022.10.22-04.14.50:351][842]LogViewport: Scene viewport resized to 2742x1262, mode Windowed.
+[2022.10.22-04.16.12:715][884]LogViewport: Scene viewport resized to 2105x1262, mode Windowed.
+[2022.10.22-04.17.02:494][601]LogViewport: Scene viewport resized to 2742x1262, mode Windowed.
+[2022.10.22-04.17.06:294][963]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/CastleAssets/Materials/M_Water_Depth_Inst.M_Water_Depth_Inst
+[2022.10.22-04.17.06:295][963]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.22-04.17.06:434][963]LogViewport: Scene viewport resized to 1021x854, mode Windowed.
+[2022.10.22-04.17.36:881][228]LogSlate: Window 'Color Picker' being destroyed
+[2022.10.22-04.17.58:609][671]Cmd: TRANSACTION UNDO
+[2022.10.22-04.17.58:609][671]LogEditorTransaction: Undo Edit Opacity
+[2022.10.22-04.18.18:082][ 44]Cmd: TRANSACTION UNDO
+[2022.10.22-04.18.18:082][ 44]LogEditorTransaction: Undo Edit Opacity
+[2022.10.22-04.18.23:020][246]Cmd: TRANSACTION UNDO
+[2022.10.22-04.18.23:020][246]LogEditorTransaction: Undo Edit Opacity
+[2022.10.22-04.19.17:888][637]Cmd: TRANSACTION UNDO
+[2022.10.22-04.19.17:888][637]LogEditorTransaction: Undo Edit Riple Tile
+[2022.10.22-04.19.44:435][848]Cmd: TRANSACTION UNDO
+[2022.10.22-04.19.44:435][848]LogEditorTransaction: Undo Edit Roughness
+[2022.10.22-04.19.47:004][ 28]LogSlate: Window 'M_Water_Depth_Inst' being destroyed
+[2022.10.22-04.19.47:021][ 28]LogSlate: Window 'M_Water_Depth_Inst' being destroyed
+[2022.10.22-04.19.47:027][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.10.22-04.19.47:142][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.10.22-04.19.47:154][ 28]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.10.22-04.19.47:154][ 28]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-04.19.50:335][306]LogViewport: Scene viewport resized to 2105x1262, mode Windowed.
+[2022.10.22-04.20.09:313][955]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_437 in PCD3D_SM5, Default, SM5 (DDC key hash: C23D2D401AC5F7FBA27B3CE891134FF32FA20AE0), compiling. 
+[2022.10.22-04.20.09:887][ 16]LogShaderCompilers: Display: ================================================
+[2022.10.22-04.20.09:887][ 16]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.10.22-04.20.09:887][ 16]LogShaderCompilers: Display: Total job queries 82, among them cache hits 4 (4.88%)
+[2022.10.22-04.20.09:887][ 16]LogShaderCompilers: Display: Tracking 69 distinct input hashes that result in 40 distinct outputs (57.97%)
+[2022.10.22-04.20.09:887][ 16]LogShaderCompilers: Display: RAM used: 0.08 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.01%
+[2022.10.22-04.20.09:887][ 16]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.10.22-04.20.09:887][ 16]LogShaderCompilers: Display: Shaders Compiled: 34
+[2022.10.22-04.20.09:887][ 16]LogShaderCompilers: Display: Jobs assigned 74, completed 69 (93.24%)
+[2022.10.22-04.20.09:887][ 16]LogShaderCompilers: Display: Average time worker was idle: 270.13 s
+[2022.10.22-04.20.09:887][ 16]LogShaderCompilers: Display: Time job spent in pending queue: average 0.18 s, longest 1.12 s
+[2022.10.22-04.20.09:887][ 16]LogShaderCompilers: Display: Job execution time: average 0.66 s, max 1.06 s
+[2022.10.22-04.20.09:887][ 16]LogShaderCompilers: Display: Job life time (pending + execution): average 0.84 s, max 1.94
+[2022.10.22-04.20.09:887][ 16]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 8.09 s
+[2022.10.22-04.20.09:887][ 16]LogShaderCompilers: Display: Jobs were issued in 74 batches (only local compilation was used), average 1.00 jobs/batch
+[2022.10.22-04.20.09:887][ 16]LogShaderCompilers: Display: Average processing rate: 8.53 jobs/sec
+[2022.10.22-04.20.09:887][ 16]LogShaderCompilers: Display: Effective parallelization: 4.78 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2022.10.22-04.20.09:887][ 16]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.10.22-04.20.09:887][ 16]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   16 times, average 0.71 sec, max 1.01 sec, min 0.49 sec)
+[2022.10.22-04.20.09:887][ 16]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled   16 times, average 0.67 sec, max 0.98 sec, min 0.48 sec)
+[2022.10.22-04.20.09:887][ 16]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   16 times, average 0.65 sec, max 0.97 sec, min 0.42 sec)
+[2022.10.22-04.20.09:887][ 16]LogShaderCompilers: Display:                                      FLandscapeGrassWeightVS (compiled    2 times, average 0.55 sec, max 0.58 sec, min 0.53 sec)
+[2022.10.22-04.20.09:887][ 16]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled   16 times, average 0.27 sec, max 0.45 sec, min 0.16 sec)
+[2022.10.22-04.20.09:887][ 16]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.10.22-04.20.09:887][ 16]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 29.18% of total time (compiled   16 times, average 0.71 sec, max 1.01 sec, min 0.49 sec)
+[2022.10.22-04.20.09:887][ 16]LogShaderCompilers: Display:                                                 FLumenCardVS - 27.85% of total time (compiled   16 times, average 0.67 sec, max 0.98 sec, min 0.48 sec)
+[2022.10.22-04.20.09:887][ 16]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 27.09% of total time (compiled   16 times, average 0.65 sec, max 0.97 sec, min 0.42 sec)
+[2022.10.22-04.20.09:887][ 16]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 11.30% of total time (compiled   16 times, average 0.27 sec, max 0.45 sec, min 0.16 sec)
+[2022.10.22-04.20.09:887][ 16]LogShaderCompilers: Display:                                      FLandscapeGrassWeightVS - 2.86% of total time (compiled    2 times, average 0.55 sec, max 0.58 sec, min 0.53 sec)
+[2022.10.22-04.20.09:887][ 16]LogShaderCompilers: Display: ================================================
+[2022.10.22-04.20.16:845][775]Cmd: TRANSACTION UNDO
+[2022.10.22-04.20.16:845][775]LogEditorTransaction: Undo Landscape Editing: Paint
+[2022.10.22-04.20.16:856][775]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Weightmap_5 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-04.20.16:857][775]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Weightmap_3 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-04.20.16:858][775]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Weightmap_90 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-04.20.16:927][775]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Weightmap_93 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-04.20.32:536][527]Cmd: TRANSACTION UNDO
+[2022.10.22-04.20.32:536][527]LogEditorTransaction: Undo Landscape Editing: Paint
+[2022.10.22-04.20.32:546][527]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Weightmap_7 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-04.20.32:547][527]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Weightmap_94 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-04.20.32:615][527]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Weightmap_5 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-04.20.38:558][183]Cmd: TRANSACTION UNDO
+[2022.10.22-04.20.38:558][183]LogEditorTransaction: Undo Landscape Editing: Paint
+[2022.10.22-04.20.44:006][672]Cmd: TRANSACTION UNDO
+[2022.10.22-04.20.44:006][672]LogEditorTransaction: Undo Landscape Editing: Paint
+[2022.10.22-04.20.44:020][672]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Weightmap_1 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-04.20.44:024][672]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Weightmap_93 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-04.20.44:025][672]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Weightmap_3 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-04.20.44:031][672]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Weightmap_94 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-04.20.45:330][775]Cmd: TRANSACTION UNDO
+[2022.10.22-04.20.45:330][775]LogEditorTransaction: Undo Landscape Editing: Paint
+[2022.10.22-04.20.45:351][775]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Weightmap_93 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-04.20.45:357][775]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Weightmap_3 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-04.21.12:394][509]LogDerivedDataCache: C:/Users/Calfr/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.132 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.22-04.21.59:681][432]Cmd: TRANSACTION UNDO
+[2022.10.22-04.21.59:681][432]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2022.10.22-04.21.59:709][432]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_0 (BGRA8, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2022.10.22-04.22.57:805][363]LogViewport: Scene viewport resized to 2742x1262, mode Windowed.
+[2022.10.22-04.24.05:975][ 86]LogViewport: Scene viewport resized to 2105x1262, mode Windowed.
+[2022.10.22-04.24.52:590][542]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_489 in PCD3D_SM5, Default, SM5 (DDC key hash: DC2D05F5A7F4641AD9F96886ACEB5AE581B35C4C), compiling. 
+[2022.10.22-04.24.52:618][542]LogShaderCompilers: Display: ================================================
+[2022.10.22-04.24.52:618][542]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.10.22-04.24.52:618][542]LogShaderCompilers: Display: Total job queries 86, among them cache hits 8 (9.30%)
+[2022.10.22-04.24.52:618][542]LogShaderCompilers: Display: Tracking 74 distinct input hashes that result in 42 distinct outputs (56.76%)
+[2022.10.22-04.24.52:618][542]LogShaderCompilers: Display: RAM used: 0.09 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.01%
+[2022.10.22-04.24.52:618][542]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.10.22-04.24.52:618][542]LogShaderCompilers: Display: Shaders Compiled: 36
+[2022.10.22-04.24.52:618][542]LogShaderCompilers: Display: Jobs assigned 74, completed 74 (100.00%)
+[2022.10.22-04.24.52:618][542]LogShaderCompilers: Display: Average time worker was idle: 270.13 s
+[2022.10.22-04.24.52:618][542]LogShaderCompilers: Display: Time job spent in pending queue: average 0.18 s, longest 1.12 s
+[2022.10.22-04.24.52:618][542]LogShaderCompilers: Display: Job execution time: average 0.67 s, max 1.06 s
+[2022.10.22-04.24.52:618][542]LogShaderCompilers: Display: Job life time (pending + execution): average 0.85 s, max 1.94
+[2022.10.22-04.24.52:618][542]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 8.61 s
+[2022.10.22-04.24.52:618][542]LogShaderCompilers: Display: Jobs were issued in 74 batches (only local compilation was used), average 1.00 jobs/batch
+[2022.10.22-04.24.52:618][542]LogShaderCompilers: Display: Average processing rate: 8.60 jobs/sec
+[2022.10.22-04.24.52:618][542]LogShaderCompilers: Display: Effective parallelization: 4.84 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2022.10.22-04.24.52:618][542]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.10.22-04.24.52:618][542]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   17 times, average 0.70 sec, max 1.01 sec, min 0.49 sec)
+[2022.10.22-04.24.52:618][542]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled   17 times, average 0.67 sec, max 0.98 sec, min 0.48 sec)
+[2022.10.22-04.24.52:618][542]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   17 times, average 0.66 sec, max 0.97 sec, min 0.42 sec)
+[2022.10.22-04.24.52:618][542]LogShaderCompilers: Display:                                      FLandscapeGrassWeightVS (compiled    3 times, average 0.58 sec, max 0.64 sec, min 0.53 sec)
+[2022.10.22-04.24.52:618][542]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled   17 times, average 0.28 sec, max 0.45 sec, min 0.16 sec)
+[2022.10.22-04.24.52:618][542]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.10.22-04.24.52:618][542]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 28.60% of total time (compiled   17 times, average 0.70 sec, max 1.01 sec, min 0.49 sec)
+[2022.10.22-04.24.52:618][542]LogShaderCompilers: Display:                                                 FLumenCardVS - 27.35% of total time (compiled   17 times, average 0.67 sec, max 0.98 sec, min 0.48 sec)
+[2022.10.22-04.24.52:618][542]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 26.85% of total time (compiled   17 times, average 0.66 sec, max 0.97 sec, min 0.42 sec)
+[2022.10.22-04.24.52:618][542]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 11.40% of total time (compiled   17 times, average 0.28 sec, max 0.45 sec, min 0.16 sec)
+[2022.10.22-04.24.52:618][542]LogShaderCompilers: Display:                                      FLandscapeGrassWeightVS - 4.20% of total time (compiled    3 times, average 0.58 sec, max 0.64 sec, min 0.53 sec)
+[2022.10.22-04.24.52:618][542]LogShaderCompilers: Display: ================================================
+[2022.10.22-04.25.06:811][176]Cmd: TRANSACTION UNDO
+[2022.10.22-04.25.06:811][176]LogEditorTransaction: Undo Landscape Editing: Paint
+[2022.10.22-04.25.06:829][176]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Weightmap_92 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-04.25.06:833][176]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Weightmap_7 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-04.25.06:833][176]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Weightmap_94 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-04.25.06:834][176]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Weightmap_5 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-04.25.06:835][176]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Weightmap_93 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-04.25.06:842][176]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Weightmap_3 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-04.25.08:842][361]Cmd: TRANSACTION UNDO
+[2022.10.22-04.25.08:842][361]LogEditorTransaction: Undo Landscape Editing: Paint
+[2022.10.22-04.25.08:868][361]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Weightmap_7 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-04.25.08:872][361]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Weightmap_94 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-04.25.08:873][361]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Weightmap_5 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-04.25.08:880][361]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Weightmap_93 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-04.25.10:238][496]Cmd: TRANSACTION UNDO
+[2022.10.22-04.25.10:238][496]LogEditorTransaction: Undo Landscape Editing: Paint
+[2022.10.22-04.25.10:250][496]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Weightmap_94 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-04.25.10:251][496]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Weightmap_5 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-04.25.10:252][496]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Weightmap_93 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-04.25.10:317][496]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Weightmap_3 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-04.25.10:861][557]Cmd: TRANSACTION UNDO
+[2022.10.22-04.25.10:861][557]LogEditorTransaction: Undo Landscape Editing: Paint
+[2022.10.22-04.25.10:880][557]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Weightmap_94 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-04.25.10:881][557]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Weightmap_5 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-04.25.10:882][557]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Weightmap_93 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-04.25.10:946][557]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Weightmap_3 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-04.25.11:368][602]Cmd: TRANSACTION UNDO
+[2022.10.22-04.25.11:368][602]LogEditorTransaction: Undo Landscape Editing: Paint
+[2022.10.22-04.25.11:384][602]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Weightmap_94 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-04.25.11:385][602]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Weightmap_5 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-04.25.11:386][602]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Weightmap_93 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-04.25.11:387][602]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Weightmap_3 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-04.25.11:454][602]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Weightmap_1 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-04.25.11:829][643]Cmd: TRANSACTION UNDO
+[2022.10.22-04.25.11:830][643]LogEditorTransaction: Undo Landscape Editing: Paint
+[2022.10.22-04.25.11:849][643]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Weightmap_94 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-04.25.11:850][643]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Weightmap_5 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-04.25.11:851][643]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Weightmap_93 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-04.25.11:918][643]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Weightmap_3 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-04.25.12:328][689]Cmd: TRANSACTION UNDO
+[2022.10.22-04.25.12:328][689]LogEditorTransaction: Undo Landscape Editing: Paint
+[2022.10.22-04.25.12:354][689]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Weightmap_94 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-04.25.12:359][689]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Weightmap_5 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-04.25.12:360][689]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Weightmap_90 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-04.25.12:361][689]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Weightmap_3 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-04.25.12:367][689]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Weightmap_93 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-04.25.12:937][735]Cmd: TRANSACTION UNDO
+[2022.10.22-04.25.12:937][735]LogEditorTransaction: Undo Landscape Editing: Paint
+[2022.10.22-04.25.12:964][735]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Weightmap_5 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-04.25.12:965][735]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Weightmap_3 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-04.25.12:966][735]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Weightmap_93 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-04.25.13:047][736]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Weightmap_1 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-04.25.13:463][783]Cmd: TRANSACTION UNDO
+[2022.10.22-04.25.13:463][783]LogEditorTransaction: Undo Landscape Editing: Paint
+[2022.10.22-04.25.13:484][783]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Weightmap_5 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-04.25.13:485][783]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Weightmap_3 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-04.25.13:487][783]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Weightmap_93 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-04.25.13:569][784]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Weightmap_1 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-04.25.14:372][877]Cmd: TRANSACTION UNDO
+[2022.10.22-04.25.14:372][877]LogEditorTransaction: Undo Landscape Editing: Paint
+[2022.10.22-04.25.14:392][877]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Weightmap_3 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-04.25.14:393][877]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Weightmap_93 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-04.25.14:394][877]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Weightmap_1 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-04.25.14:460][877]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Weightmap_94 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-04.25.14:962][933]Cmd: TRANSACTION UNDO
+[2022.10.22-04.25.14:962][933]LogEditorTransaction: Undo Landscape Editing: Paint
+[2022.10.22-04.25.14:985][933]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Weightmap_1 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-04.25.14:986][933]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Weightmap_94 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-04.25.14:988][933]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Weightmap_5 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-04.25.14:989][933]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Weightmap_90 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-04.25.14:990][933]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Weightmap_3 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-04.25.15:056][933]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Weightmap_93 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-04.25.16:085][ 52]Cmd: TRANSACTION UNDO
+[2022.10.22-04.25.16:085][ 52]LogEditorTransaction: Undo Landscape Editing: Paint
+[2022.10.22-04.25.16:102][ 52]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Weightmap_1 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-04.25.16:104][ 52]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Weightmap_94 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-04.25.16:105][ 52]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Weightmap_5 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-04.25.16:106][ 52]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Weightmap_90 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-04.25.16:107][ 52]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Weightmap_3 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-04.25.16:188][ 53]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Weightmap_93 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.22-04.25.18:536][331]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.10.22-04.25.18:536][331]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2022.10.22-04.25.19:447][331]LogWindows: Error: === Critical error: ===
+[2022.10.22-04.25.19:447][331]LogWindows: Error: 
+[2022.10.22-04.25.19:447][331]LogWindows: Error: Assertion failed: ProxyMapUsage && (InUsage == *ProxyMapUsage) [File:D:\build\++UE5\Sync\Engine\Source\Runtime\Landscape\Private\LandscapeEditLayers.cpp] [Line: 2408] 
+[2022.10.22-04.25.19:447][331]LogWindows: Error: 
+[2022.10.22-04.25.19:447][331]LogWindows: Error: 
+[2022.10.22-04.25.19:447][331]LogWindows: Error: 
+[2022.10.22-04.25.19:447][331]LogWindows: Error: [Callstack] 0x00007fff081a73cf UnrealEditor-Landscape.dll!UnknownFunction []
+[2022.10.22-04.25.19:447][331]LogWindows: Error: [Callstack] 0x00007fff0821ee11 UnrealEditor-Landscape.dll!UnknownFunction []
+[2022.10.22-04.25.19:447][331]LogWindows: Error: [Callstack] 0x00007fff0820b31a UnrealEditor-Landscape.dll!UnknownFunction []
+[2022.10.22-04.25.19:447][331]LogWindows: Error: [Callstack] 0x00007ffedb98bcbb UnrealEditor-LandscapeEditor.dll!UnknownFunction []
+[2022.10.22-04.25.19:447][331]LogWindows: Error: [Callstack] 0x00007ffedb98a1c6 UnrealEditor-LandscapeEditor.dll!UnknownFunction []
+[2022.10.22-04.25.19:447][331]LogWindows: Error: [Callstack] 0x00007ffedb94bd4e UnrealEditor-LandscapeEditor.dll!UnknownFunction []
+[2022.10.22-04.25.19:447][331]LogWindows: Error: [Callstack] 0x00007ffedb954a91 UnrealEditor-LandscapeEditor.dll!UnknownFunction []
+[2022.10.22-04.25.19:447][331]LogWindows: Error: [Callstack] 0x00007ffedb973b9d UnrealEditor-LandscapeEditor.dll!UnknownFunction []
+[2022.10.22-04.25.19:447][331]LogWindows: Error: [Callstack] 0x00007fff0b753dd5 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2022.10.22-04.25.19:447][331]LogWindows: Error: [Callstack] 0x00007fff0ae12859 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2022.10.22-04.25.19:447][331]LogWindows: Error: [Callstack] 0x00007fff0ae2d135 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2022.10.22-04.25.19:447][331]LogWindows: Error: [Callstack] 0x00007fff0ae39a92 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2022.10.22-04.25.19:447][331]LogWindows: Error: [Callstack] 0x00007fff0ae9f0b1 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2022.10.22-04.25.19:447][331]LogWindows: Error: [Callstack] 0x00007fff0b2e2a41 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2022.10.22-04.25.19:447][331]LogWindows: Error: [Callstack] 0x00007fff07dcdaae UnrealEditor-LevelEditor.dll!UnknownFunction []
+[2022.10.22-04.25.19:447][331]LogWindows: Error: [Callstack] 0x00007ffefc44fa06 UnrealEditor-Engine.dll!UnknownFunction []
+[2022.10.22-04.25.19:447][331]LogWindows: Error: [Callstack] 0x00007fff10b802e4 UnrealEditor-Slate.dll!UnknownFunction []
+[2022.10.22-04.25.19:447][331]LogWindows: Error: [Callstack] 0x00007fff10885580 UnrealEditor-Slate.dll!UnknownFunction []
+[2022.10.22-04.25.19:447][331]LogWindows: Error: [Callstack] 0x00007fff108febd6 UnrealEditor-Slate.dll!UnknownFunction []
+[2022.10.22-04.25.19:447][331]LogWindows: Error: [Callstack] 0x00007fff108e8b10 UnrealEditor-Slate.dll!UnknownFunction []
+[2022.10.22-04.25.19:447][331]LogWindows: Error: [Callstack] 0x00007fff108dd169 UnrealEditor-Slate.dll!UnknownFunction []
+[2022.10.22-04.25.19:447][331]LogWindows: Error: [Callstack] 0x00007fffbd01a992 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2022.10.22-04.25.19:447][331]LogWindows: Error: [Callstack] 0x00007fffbd009247 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2022.10.22-04.25.19:447][331]LogWindows: Error: [Callstack] 0x00007fffbd01ce51 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2022.10.22-04.25.19:447][331]LogWindows: Error: [Callstack] 0x00007fffbd0049a7 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2022.10.22-04.25.19:447][331]LogWindows: Error: [Callstack] 0x00007fffec86e858 USER32.dll!UnknownFunction []
+[2022.10.22-04.25.19:447][331]LogWindows: Error: [Callstack] 0x00007fffec86e4ee USER32.dll!UnknownFunction []
+[2022.10.22-04.25.19:447][331]LogWindows: Error: [Callstack] 0x00007ffedaa77e59 InkObj.dll!UnknownFunction []
+[2022.10.22-04.25.19:447][331]LogWindows: Error: [Callstack] 0x00007fffb6461028 atlthunk.dll!UnknownFunction []
+[2022.10.22-04.25.19:447][331]LogWindows: Error: [Callstack] 0x00007fffec86e858 USER32.dll!UnknownFunction []
+[2022.10.22-04.25.19:447][331]LogWindows: Error: [Callstack] 0x00007fffec86e299 USER32.dll!UnknownFunction []
+[2022.10.22-04.25.19:447][331]LogWindows: Error: [Callstack] 0x00007fffbd01e148 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2022.10.22-04.25.19:447][331]LogWindows: Error: [Callstack] 0x00007ff712f17114 UnrealEditor.exe!UnknownFunction []
+[2022.10.22-04.25.19:447][331]LogWindows: Error: [Callstack] 0x00007ff712f30d9c UnrealEditor.exe!UnknownFunction []
+[2022.10.22-04.25.19:447][331]LogWindows: Error: [Callstack] 0x00007ff712f30e8a UnrealEditor.exe!UnknownFunction []
+[2022.10.22-04.25.19:447][331]LogWindows: Error: [Callstack] 0x00007ff712f33c4d UnrealEditor.exe!UnknownFunction []
+[2022.10.22-04.25.19:447][331]LogWindows: Error: [Callstack] 0x00007ff712f45564 UnrealEditor.exe!UnknownFunction []
+[2022.10.22-04.25.19:447][331]LogWindows: Error: [Callstack] 0x00007ff712f48736 UnrealEditor.exe!UnknownFunction []
+[2022.10.22-04.25.19:447][331]LogWindows: Error: [Callstack] 0x00007fffed367034 KERNEL32.DLL!UnknownFunction []
+[2022.10.22-04.25.19:447][331]LogWindows: Error: [Callstack] 0x00007fffedca26a1 ntdll.dll!UnknownFunction []
+[2022.10.22-04.25.19:447][331]LogWindows: Error: 
+[2022.10.22-04.25.19:450][331]LogExit: Executing StaticShutdownAfterError
+[2022.10.22-04.25.19:452][331]LogWindows: FPlatformMisc::RequestExit(1)
+[2022.10.22-04.25.19:452][331]LogWindows: FPlatformMisc::RequestExitWithStatus(1, 3)
+[2022.10.22-04.25.19:452][331]LogCore: Engine exit requested (reason: Win RequestExit)
+[2022.10.22-04.25.19:459][331]Log file closed, 10/21/22 23:25:19
